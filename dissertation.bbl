@@ -1,0 +1,54 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Coding}{2013}{sketch:2013}
+Coding, B.  \harvardyearleft 2013\harvardyearright , `Sketchapp'.
+\newblock < Dec, 2013 >.
+\newline\harvardurl{www.bohemiancoding.com/sketch/}
+
+\harvarditem{ColourBlindAwareness}{n.d.}{colourBlind}
+ColourBlindAwareness  \harvardyearleft n.d.\harvardyearright , `Colour
+  blindness'.
+\newblock < Dec, 2013 >.
+\newline\harvardurl{www.colourblindawareness.org/colour-blindness/}
+
+\harvarditem{Franco}{2002}{bertoni:2002}
+Franco, B.  \harvardyearleft 2002\harvardyearright , {\em Minimalist
+  Architecture}, Birkhäuser, pp.~96--106.
+
+\harvarditem{Hansson}{n.d.}{rails:2013}
+Hansson, D.~H.  \harvardyearleft n.d.\harvardyearright , `Ruby on rails'.
+\newblock < Jan 21st, 2014 >.
+\newline\harvardurl{www.rubyonrails.org}
+
+\harvarditem{Moolenaar}{n.d.}{vim:2013}
+Moolenaar, B.  \harvardyearleft n.d.\harvardyearright , `Vim'.
+\newblock < Feb 16th 2014 >.
+\newline\harvardurl{http://www.vim.org}
+
+\harvarditem{Nachman}{n.d.}{iterm:2011}
+Nachman, G.  \harvardyearleft n.d.\harvardyearright , `iterm 2'.
+\newblock <Feb 16th 2014 >.
+\newline\harvardurl{http://www.iterm2.com}
+
+\harvarditem{Russell}{n.d.}{zsh:2009}
+Russell, R.  \harvardyearleft n.d.\harvardyearright , `Oh my zsh'.
+\newblock <Feb 16th 2014 >.
+\newline\harvardurl{https://github.com/robbyrussell/oh-my-zsh}
+
+\harvarditem{Skinner}{n.d.}{sublimetext:2011}
+Skinner, J.  \harvardyearleft n.d.\harvardyearright , `Sublime text 2'.
+\newblock < Feb 16th 2014 >.
+\newline\harvardurl{http://www.sublimetext.com}
+
+\harvarditem{Torvalds}{n.d.}{git:2014}
+Torvalds, L.  \harvardyearleft n.d.\harvardyearright , `Git'.
+\newblock <Feb 16th 2014.
+\newline\harvardurl{http://git-scm.com}
+
+\harvarditem{Walkers \harvardand\ Digital}{2013}{walkers:2013}
+Walkers \harvardand\ Digital  \harvardyearleft 2013\harvardyearright , `Walker
+  sands mobile traffic report q2 2013'.
+\newblock < Dec, 2013 >.
+\newline\harvardurl{http://www.walkersandsdigital.com/Walker-Sands-Mobile-Traffic-Report-Q2-2013}
+
+\end{thebibliography}

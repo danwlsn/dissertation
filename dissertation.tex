@@ -1,0 +1,43 @@
+\documentclass[titlepage,a4paper,12pt]{article} % Document Class
+
+% Font styling
+\usepackage[lining,scaled=.95]{ebgaramond}
+\usepackage[T1]{fontenc}
+
+% Bibliography
+\usepackage{cite}
+\usepackage{natbib}
+\bibliographystyle{agsm}
+\usepackage[nottoc,numbib]{tocbibind}
+
+%Meta data
+\author{Daniel James Wilson}
+\title{Progress Monitoring Web Application}
+
+% Document
+\begin{document}
+\maketitle
+\tableofcontents
+\pagebreak
+
+\section{Introduction}
+\input{chapters/intro}
+
+\section{Literature Review}
+
+\section{Design}
+\input{chapters/design}
+
+\section{Development}
+\input{chapters/development}
+
+\section{Testing}
+
+\section{Evaluation}
+
+\section{Conclusion}
+
+\pagebreak
+\bibliography{bib}
+
+\end{document}
