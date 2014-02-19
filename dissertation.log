@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  19 FEB 2014 15:23
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  19 FEB 2014 15:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -292,7 +292,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-) [6] [7] (./dissertation.bbl
+[6]) [7] (./dissertation.bbl
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
 (Font)              scaled to size 11.39996pt on input line 6.
 
@@ -307,19 +307,19 @@ Package natbib Warning: There were undefined citations.
 
 [8] (./dissertation.aux) ) 
 Here is how much of TeX's memory you used:
- 1991 strings out of 493315
- 28930 string characters out of 6137904
- 76035 words of memory out of 5000000
- 5436 multiletter control sequences out of 15000+600000
+ 1996 strings out of 493315
+ 28994 string characters out of 6137904
+ 78035 words of memory out of 5000000
+ 5441 multiletter control sequences out of 15000+600000
  14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 27i,6n,34p,2092b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,6n,34p,2674b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/e
 bgaramond/ebgm_euh4o4.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/e
 bgaramond/ebgm_fhfxmf.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/publi
 c/ebgaramond/EBGaramond12-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/
 type1/public/ebgaramond/EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (9 pages, 274439 bytes).
+Output written on dissertation.pdf (9 pages, 275162 bytes).
 PDF statistics:
  44 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
