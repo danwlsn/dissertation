@@ -11,6 +11,11 @@ ColourBlindAwareness  \harvardyearleft n.d.\harvardyearright , `Colour
 \newblock < Dec, 2013 >.
 \newline\harvardurl{www.colourblindawareness.org/colour-blindness/}
 
+\harvarditem{Fitocracy}{2007}{fitocracy:2007}
+Fitocracy  \harvardyearleft 2007\harvardyearright , `Fitocracy'.
+\newblock <Accessed on : 5/11/2013>.
+\newline\harvardurl{http://www.fitocracy.com}
+
 \harvarditem{Franco}{2002}{bertoni:2002}
 Franco, B.  \harvardyearleft 2002\harvardyearright , {\em Minimalist
   Architecture}, Birkhäuser, pp.~96--106.
@@ -19,6 +24,22 @@ Franco, B.  \harvardyearleft 2002\harvardyearright , {\em Minimalist
 Hansson, D.~H.  \harvardyearleft n.d.\harvardyearright , `Ruby on rails'.
 \newblock < Jan 21st, 2014 >.
 \newline\harvardurl{www.rubyonrails.org}
+
+\harvarditem{inc.}{2012}{nikefuelband:2012}
+inc., N.  \harvardyearleft 2012\harvardyearright , `Nike+ fuel band'.
+\newblock <Accessed on : 5/11/2013>.
+\newline\harvardurl{http://www.nike.com/us}
+
+\harvarditem{inc.}{2013}{fuelbandpress:2013}
+inc., N.  \harvardyearleft 2013\harvardyearright , `Nike unviels nike+ fuelband
+  se and nike+ fuelband app'.
+\newblock <Accessed on : 10/11/2013>.
+\newline\harvardurl{http://nikeinc.com/nike-fuelband/news/nike-unveils-nike-fuelband-se-and-nike-fuelband-app}
+
+\harvarditem{Jawbone.}{2011}{jawbone:2011}
+Jawbone.  \harvardyearleft 2011\harvardyearright , `Jawbone up'.
+\newblock <Accessed on : 8/11/2013>.
+\newline\harvardurl{https://jawbone.com/up}
 
 \harvarditem{Moolenaar}{n.d.}{vim:2013}
 Moolenaar, B.  \harvardyearleft n.d.\harvardyearright , `Vim'.
@@ -39,6 +60,11 @@ Russell, R.  \harvardyearleft n.d.\harvardyearright , `Oh my zsh'.
 Skinner, J.  \harvardyearleft n.d.\harvardyearright , `Sublime text 2'.
 \newblock < Feb 16th 2014 >.
 \newline\harvardurl{http://www.sublimetext.com}
+
+\harvarditem{Theodore B. Van~Itallie}{1985}{theordre:1985}
+Theodore B. Van~Itallie, M.  \harvardyearleft 1985\harvardyearright , `Health
+  implications of overweight and obesity in the united states', {\em American
+  College of PhysiciansAmerican College of Physicians} .
 
 \harvarditem{Torvalds}{n.d.}{git:2014}
 Torvalds, L.  \harvardyearleft n.d.\harvardyearright , `Git'.
