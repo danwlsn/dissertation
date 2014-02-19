@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  16 FEB 2014 22:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  19 FEB 2014 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -232,31 +232,67 @@ le
 ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [1] (./chapters/intro.tex) (./chapters/design.tex
+ [1] (./chapters/intro.tex) (./chapters/litreview.tex
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
+able
+(Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
+ne 1.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 1.
+
+
+Package natbib Warning: Citation `theordre1985' on page 2 undefined on input li
+ne 2.
+
+[2]
+
+Package natbib Warning: Citation `fitocracy' on page 3 undefined on input line 
+10.
+
+
+Package natbib Warning: Citation `jawbone' on page 3 undefined on input line 14
+.
+
+
+Package natbib Warning: Citation `nikefuelband' on page 3 undefined on input li
+ne 14.
+
+[3]
+
+Package natbib Warning: Citation `fuelbandpress' on page 4 undefined on input l
+ine 21.
+
+) [4] (./chapters/design.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-[2]
+
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-
+[5]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [3] (./chapters/development.tex
+) (./chapters/development.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-) [4] [5] (./dissertation.bbl
+) [6] [7] (./dissertation.bbl
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
 (Font)              scaled to size 11.39996pt on input line 6.
 
@@ -265,24 +301,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--53
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [6] (./dissertation.aux) ) 
+)
+
+Package natbib Warning: There were undefined citations.
+
+[8] (./dissertation.aux) ) 
 Here is how much of TeX's memory you used:
- 1965 strings out of 493315
- 28603 string characters out of 6137904
- 75035 words of memory out of 5000000
- 5419 multiletter control sequences out of 15000+600000
- 12017 words of font info for 29 fonts, out of 8000000 for 9000
+ 1991 strings out of 493315
+ 28930 string characters out of 6137904
+ 76035 words of memory out of 5000000
+ 5436 multiletter control sequences out of 15000+600000
+ 14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 27i,6n,34p,2052b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips
-/ebgaramond/ebgm_euh4o4.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips
-/ebgaramond/ebgm_fhfxmf.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/pub
-lic/ebgaramond/EBGaramond12-Italic.pfb></usr/local/texlive/2013/texmf-dist/font
-s/type1/public/ebgaramond/EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (7 pages, 266615 bytes).
+ 27i,6n,34p,2092b,179s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/e
+bgaramond/ebgm_euh4o4.enc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/e
+bgaramond/ebgm_fhfxmf.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/publi
+c/ebgaramond/EBGaramond12-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/
+type1/public/ebgaramond/EBGaramond12-Regular.pfb>
+Output written on dissertation.pdf (9 pages, 274439 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 26 compressed objects within 1 object stream
+ 44 PDF objects out of 1000 (max. 8388607)
+ 30 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

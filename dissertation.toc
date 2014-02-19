@@ -1,8 +1,14 @@
 \contentsline {section}{\numberline {1}Introduction}{2}
 \contentsline {section}{\numberline {2}Literature Review}{2}
-\contentsline {section}{\numberline {3}Design}{2}
-\contentsline {section}{\numberline {4}Development}{4}
-\contentsline {section}{\numberline {5}Testing}{5}
-\contentsline {section}{\numberline {6}Evaluation}{5}
-\contentsline {section}{\numberline {7}Conclusion}{5}
-\contentsline {section}{\numberline {8}Bibliography}{6}
+\contentsline {subsection}{\numberline {2.1}Introduction}{2}
+\contentsline {subsection}{\numberline {2.2}Related work}{3}
+\contentsline {subsubsection}{\numberline {2.2.1}Fitocracy}{3}
+\contentsline {subsubsection}{\numberline {2.2.2}Fitbit}{3}
+\contentsline {subsubsection}{\numberline {2.2.3}Nike+ FuelBand}{4}
+\contentsline {subsection}{\numberline {2.3}Conclusion}{4}
+\contentsline {section}{\numberline {3}Design}{5}
+\contentsline {section}{\numberline {4}Development}{6}
+\contentsline {section}{\numberline {5}Testing}{7}
+\contentsline {section}{\numberline {6}Evaluation}{7}
+\contentsline {section}{\numberline {7}Conclusion}{7}
+\contentsline {section}{\numberline {8}Bibliography}{8}
