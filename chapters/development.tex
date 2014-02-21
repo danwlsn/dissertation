@@ -26,7 +26,18 @@ After a firm understanding of Rails was gained, development could continue. The 
 
 So far, only the user system had been implemented and it was time to move on to the weight tracking. This was were the problem of not knowing enough Rails to continue arose, which was solved with taking the time to learn it instead of learning as development went on. So when it was time to come back to it, all the weight tracking code that was used prior to learning Rails was removed. This was made easy with Git. Git allows you to reset changed to a certain commit. The code was rolled back to where the user system was just finished and so was the Rails database. For the weight tracking, two separate models were used. Originally, the goal weight was going to inside the user model but the decision was to split it off was so that it could possibly used for future analysis. For example; plotting a graph for both the users weight and their goal weights against time so they will be able to see when they hit their goals. This also lead to splitting up the goal weight and the current weight into tables. Another factor into this was the thought that user will be updating their current weight much more than their goal weight. So to have them in the same table would lead to multiple duplicate goal weights. These weight were to be shown on the dashboard and updated through a different page. In the original design, there was going to be a little graph under where the weights are displayed on the dashboard. This idea was removed because of how small the graph would be. It was moved to the weight input page so that it could be a lot bigger and the user would be able to gain more information from it. The weight input screen was kept really simple. It has two input boxes and two submit buttons, one for the goal weight and one for the current. Rails allows for very simple AJAX integration with forms. AJAX allows the user to update the database without having to leave the current page. This will allow the user to update their weights and then consult the graph without having to load the page again. It will be a great help on mobiles where the connection may not be great.\\
 
- 
+Once the weight tracking was implemented it was on to the next feature which is the fitness log. The fitness log is it's own table which consists of six fields:
+
+\begin{enumerate}
+\item Activity - The name of the exercise
+\item Type - What type of exercise (strength, cardio)
+\item Time - How long the user spent doing the exercise
+\item Reps - How many repetitions the user did
+\item Sets - How many sets the user did
+\item Weight - How heavy the weight was
+\end{enumerate}
+
+There are two main types of exercises; strength and cardio. There were two options when it came to storing this information. Option one was to have three tables; fitness log, cardio, and strength. The fitness log would just store the user's ID and the ID of either a cardio entry or a strength entry. Or option two which is to have them all one table and use some logic in the controller and view to determine what to do with the data dependant upon whether it's a strength exercise or a cardio exercise. The reason for needing to either split them up or use some logic is because a cardio exercise doesn't have any sets, reps or weight. They're usually a time based exercise. Whereas, it's the other way around for strength training. The user will want to track their sets, reps, and weight, and not how long it took them to perform the exercise. The decision was made to keep them all in the same table because it was easier to implement. Both ways would need some logic at either the inputing into the database end or the extracting end. 
 
 \subsection{Deployment}
 \label{sec:deployment}
