@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  21 FEB 2014 12:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  22 FEB 2014 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,6 +270,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 4.
 [6]
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
@@ -291,47 +293,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
-[8]) [9] (./dissertation.bbl
-LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
-(Font)              scaled to size 11.39996pt on input line 6.
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--38
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
+
+ []
+
+) [10] [11] (./dissertation.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 60--64
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--79
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 128--132
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-[10]) [11] (./dissertation.aux)
+) [13] (./dissertation.aux
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
 
- ) 
+) ) 
 Here is how much of TeX's memory you used:
- 2006 strings out of 493315
- 29273 string characters out of 6137904
+ 2033 strings out of 493315
+ 29792 string characters out of 6137904
  79035 words of memory out of 5000000
- 5451 multiletter control sequences out of 15000+600000
+ 5478 multiletter control sequences out of 15000+600000
  14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 27i,6n,34p,2946b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.en
-c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
-c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
-2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
-EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (12 pages, 281871 bytes).
+ 27i,6n,34p,3035b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.e
+nc}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.e
+nc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond
+12-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond
+/EBGaramond12-Regular.pfb>
+Output written on dissertation.pdf (14 pages, 288879 bytes).
 PDF statistics:
- 53 PDF objects out of 1000 (max. 8388607)
- 36 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

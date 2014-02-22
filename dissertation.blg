@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: dissertation.aux
 The style file: agsm.bst
 Database file #1: bib.bib
-You've used 15 entries,
+You've used 24 entries,
             2909 wiz_defined-function locations,
-            712 strings with 6136 characters,
-and the built_in function-call counts, 33925 in all, are:
-= -- 5331
-> -- 383
+            754 strings with 6824 characters,
+and the built_in function-call counts, 59813 in all, are:
+= -- 9529
+> -- 733
 < -- 0
-+ -- 2354
-- -- 112
-* -- 2615
-:= -- 7360
-add.period$ -- 28
-call.type$ -- 15
-change.case$ -- 209
-chr.to.int$ -- 15
-cite$ -- 15
-duplicate$ -- 181
-empty$ -- 408
-format.name$ -- 146
-if$ -- 5991
++ -- 4288
+- -- 217
+* -- 4777
+:= -- 12642
+add.period$ -- 46
+call.type$ -- 24
+change.case$ -- 323
+chr.to.int$ -- 24
+cite$ -- 24
+duplicate$ -- 284
+empty$ -- 638
+format.name$ -- 272
+if$ -- 10663
 int.to.chr$ -- 5
 int.to.str$ -- 0
 missing$ -- 3
-newline$ -- 74
-num.names$ -- 150
-pop$ -- 146
+newline$ -- 119
+num.names$ -- 223
+pop$ -- 210
 preamble$ -- 1
-purify$ -- 225
+purify$ -- 350
 quote$ -- 0
-skip$ -- 135
+skip$ -- 235
 stack$ -- 0
-substring$ -- 7207
-swap$ -- 22
-text.length$ -- 210
+substring$ -- 12919
+swap$ -- 43
+text.length$ -- 316
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 58
+type$ -- 94
 warning$ -- 0
-while$ -- 317
+while$ -- 472
 width$ -- 0
-write$ -- 209
+write$ -- 339

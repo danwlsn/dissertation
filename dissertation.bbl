@@ -1,15 +1,41 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Buck \harvardand\ Hambley}{2013}{capistrano:2013}
+Buck, J. \harvardand\ Hambley, L.  \harvardyearleft 2013\harvardyearright ,
+  `Capistrano'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://www.capistranorb.com}
+
+\harvarditem[Catlin et~al.]{Catlin, Weizenbaum \harvardand\
+  Eppstein}{2006}{sass:2006}
+Catlin, H., Weizenbaum, N. \harvardand\ Eppstein, C.  \harvardyearleft
+  2006\harvardyearright , `Sass'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://sass-lang.com}
+
 \harvarditem{Coding}{2013}{sketch:2013}
 Coding, B.  \harvardyearleft 2013\harvardyearright , `Sketchapp'.
 \newblock < Dec, 2013 >.
 \newline\harvardurl{www.bohemiancoding.com/sketch/}
 
-\harvarditem{ColourBlindAwareness}{n.d.}{colourBlind}
-ColourBlindAwareness  \harvardyearleft n.d.\harvardyearright , `Colour
+\harvarditem{ColourBlindAwareness}{1999}{colourBlind}
+ColourBlindAwareness  \harvardyearleft 1999\harvardyearright , `Colour
   blindness'.
 \newblock < Dec, 2013 >.
 \newline\harvardurl{www.colourblindawareness.org/colour-blindness/}
+
+\harvarditem[Dorsey et~al.]{Dorsey, Glass, Williams \harvardand\
+  Stone}{2006}{twitter:2006}
+Dorsey, J., Glass, N., Williams, E. \harvardand\ Stone, B.  \harvardyearleft
+  2006\harvardyearright , `Twitter'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://twitter.com}
+
+\harvarditem{Driessen}{2010}{gitflow:2010}
+Driessen, V.  \harvardyearleft 2010\harvardyearright , `A successful git
+  branching model'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://nvie.com/posts/a-successful-git-branching-model/}
 
 \harvarditem{Fitocracy}{2007}{fitocracy:2007}
 Fitocracy  \harvardyearleft 2007\harvardyearright , `Fitocracy'.
@@ -20,15 +46,15 @@ Fitocracy  \harvardyearleft 2007\harvardyearright , `Fitocracy'.
 Franco, B.  \harvardyearleft 2002\harvardyearright , {\em Minimalist
   Architecture}, Birkhäuser, pp.~96--106.
 
-\harvarditem{Hansson}{n.d.}{rails:2013}
-Hansson, D.~H.  \harvardyearleft n.d.\harvardyearright , `Ruby on rails'.
+\harvarditem{{\em Grunt.js}}{2013}{grunt:2013}
+{\em Grunt.js}  \harvardyearleft 2013\harvardyearright .
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://gruntjs.com}
+
+\harvarditem{Hansson}{2013}{rails:2013}
+Hansson, D.~H.  \harvardyearleft 2013\harvardyearright , `Ruby on rails'.
 \newblock < Jan 21st, 2014 >.
 \newline\harvardurl{www.rubyonrails.org}
-
-\harvarditem{inc.}{2012}{nikefuelband:2012}
-inc., N.  \harvardyearleft 2012\harvardyearright , `Nike+ fuel band'.
-\newblock <Accessed on : 5/11/2013>.
-\newline\harvardurl{http://www.nike.com/us}
 
 \harvarditem{inc.}{2013}{fuelbandpress:2013}
 inc., N.  \harvardyearleft 2013\harvardyearright , `Nike unviels nike+ fuelband
@@ -36,28 +62,55 @@ inc., N.  \harvardyearleft 2013\harvardyearright , `Nike unviels nike+ fuelband
 \newblock <Accessed on : 10/11/2013>.
 \newline\harvardurl{http://nikeinc.com/nike-fuelband/news/nike-unveils-nike-fuelband-se-and-nike-fuelband-app}
 
-\harvarditem{Jawbone.}{2011}{jawbone:2011}
-Jawbone.  \harvardyearleft 2011\harvardyearright , `Jawbone up'.
+\harvarditem{Jawbone}{2011}{jawbone:2011}
+Jawbone  \harvardyearleft 2011\harvardyearright , `Jawbone up'.
 \newblock <Accessed on : 8/11/2013>.
 \newline\harvardurl{https://jawbone.com/up}
 
-\harvarditem{Moolenaar}{n.d.}{vim:2013}
-Moolenaar, B.  \harvardyearleft n.d.\harvardyearright , `Vim'.
+\harvarditem[Lindenbaum et~al.]{Lindenbaum, Wiggins \harvardand\
+  Henry}{2007}{heroku:2007}
+Lindenbaum, J., Wiggins, A. \harvardand\ Henry, O.  \harvardyearleft
+  2007\harvardyearright , `Heroku'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://heroku.com}
+
+\harvarditem{Moolenaar}{2013}{vim:2013}
+Moolenaar, B.  \harvardyearleft 2013\harvardyearright , `Vim'.
 \newblock < Feb 16th 2014 >.
 \newline\harvardurl{http://www.vim.org}
 
-\harvarditem{Nachman}{n.d.}{iterm:2011}
-Nachman, G.  \harvardyearleft n.d.\harvardyearright , `iterm 2'.
+\harvarditem{Nachman}{2011}{iterm:2011}
+Nachman, G.  \harvardyearleft 2011\harvardyearright , `iterm 2'.
 \newblock <Feb 16th 2014 >.
 \newline\harvardurl{http://www.iterm2.com}
 
-\harvarditem{Russell}{n.d.}{zsh:2009}
-Russell, R.  \harvardyearleft n.d.\harvardyearright , `Oh my zsh'.
+\harvarditem{Nike}{2012}{nikefuelband:2012}
+Nike  \harvardyearleft 2012\harvardyearright , `Nike+ fuel band'.
+\newblock <Accessed on : 5/11/2013>.
+\newline\harvardurl{http://www.nike.com/us}
+
+\harvarditem{Oracle}{1995}{mysql:1995}
+Oracle  \harvardyearleft 1995\harvardyearright , `Mysql'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://www.mysql.com}
+
+\harvarditem{Popescu}{2014}{dash:2014}
+Popescu, B.  \harvardyearleft 2014\harvardyearright , `Dash'.
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://kapeli.com/dash}
+
+\harvarditem{{\em PostgreSQL}}{PostgreSQL}{postgres:1995}
+{\em PostgreSQL}  \harvardyearleft PostgreSQL\harvardyearright .
+\newblock <Accessed on Feb 17th 2014>.
+\newline\harvardurl{http://www.postgresql.org}
+
+\harvarditem{Russell}{2009}{zsh:2009}
+Russell, R.  \harvardyearleft 2009\harvardyearright , `Oh my zsh'.
 \newblock <Feb 16th 2014 >.
 \newline\harvardurl{https://github.com/robbyrussell/oh-my-zsh}
 
-\harvarditem{Skinner}{n.d.}{sublimetext:2011}
-Skinner, J.  \harvardyearleft n.d.\harvardyearright , `Sublime text 2'.
+\harvarditem{Skinner}{2011}{sublimetext:2011}
+Skinner, J.  \harvardyearleft 2011\harvardyearright , `Sublime text 2'.
 \newblock < Feb 16th 2014 >.
 \newline\harvardurl{http://www.sublimetext.com}
 
@@ -66,9 +119,9 @@ Theodore B. Van~Itallie, M.  \harvardyearleft 1985\harvardyearright , `Health
   implications of overweight and obesity in the united states', {\em American
   College of PhysiciansAmerican College of Physicians} .
 
-\harvarditem{Torvalds}{n.d.}{git:2014}
-Torvalds, L.  \harvardyearleft n.d.\harvardyearright , `Git'.
-\newblock <Feb 16th 2014.
+\harvarditem{Torvalds}{2014}{git:2014}
+Torvalds, L.  \harvardyearleft 2014\harvardyearright , `Git'.
+\newblock <Feb 16th 2014>.
 \newline\harvardurl{http://git-scm.com}
 
 \harvarditem{Walkers \harvardand\ Digital}{2013}{walkers:2013}
