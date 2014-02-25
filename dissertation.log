@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  25 FEB 2014 11:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  25 FEB 2014 21:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,6 +175,57 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count89
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count90
+\lst@currlwidth=\dimen105
+\lst@column=\count91
+\lst@pos=\count92
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count93
+\lst@lineno=\count94
+\lst@maxwidth=\dimen108
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count95
+\lst@skipnumbers=\count96
+\lst@framebox=\box27
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
 (/usr/local/texlive/2013/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 373.
@@ -191,7 +242,7 @@ Package natbib Warning: The `cite' package should not be used
 \bibsep=\skip44
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citenum on input line 708.
-\c@NAT@ctr=\count89
+\c@NAT@ctr=\count97
 ) (/usr/local/texlive/2013/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has section divisions on input line 50.
@@ -202,50 +253,50 @@ Package tocbibind Note: Using section or other style headings.
 ) (./dissertation.aux)
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 20.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Try loading font information for T1+EBGaramond-LF on input 
-line 20.
+line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-LF.fd
 File: T1EBGaramond-LF.fd 2013/02/13 (autoinst) Font definitions for T1/EBGaramo
 nd-LF.
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 20.
-\c@mv@tabular=\count90
-\c@mv@boldtabular=\count91
+(Font)              scaled to size 11.39996pt on input line 31.
+\c@mv@tabular=\count98
+\c@mv@boldtabular=\count99
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count92
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count93
-\nofMParguments=\count94
-\everyMPshowfont=\toks16
-\MPscratchCnt=\count95
-\MPscratchDim=\dimen106
-\MPnumerator=\count96
-\makeMPintoPDFobject=\count97
-\everyMPtoPDFconversion=\toks17
+\scratchcounter=\count100
+\scratchdimen=\dimen109
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen110
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks18
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -290,45 +341,47 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\c@lstlisting=\count106
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
-(Font)              scaled to size 19.70294pt on input line 21.
+(Font)              scaled to size 19.70294pt on input line 32.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 21.
+(Font)              scaled to size 13.67995pt on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 21.
+(Font)              <14.4> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 32.
 
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 22.
+(Font)              scaled to size 16.41594pt on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <17.28> not avai
 lable
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
-ne 22.
+ne 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 22.
+(Font)              scaled to size 16.41594pt on input line 33.
 
-(./dissertation.toc
+(./dissertation.toc)
+\tf@toc=\write3
+\openout3 = `dissertation.toc'.
+
+ [1] (./chapters/intro.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
 ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
-)
-\tf@toc=\write3
-\openout3 = `dissertation.toc'.
 
- [1] (./chapters/intro.tex) (./chapters/litreview.tex
+
+LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
+
+
+LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
+
+) (./chapters/litreview.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
@@ -336,10 +389,49 @@ ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
 
-[2] [3]) [4] (./chapters/design.tex
+
+Package natbib Warning: Citation `theordre:1985' on page 2 undefined on input l
+ine 2.
+
+[2]
+
+Package natbib Warning: Citation `fitocracy:2007' on page 3 undefined on input 
+line 10.
+
+
+Package natbib Warning: Citation `jawbone:2011' on page 3 undefined on input li
+ne 14.
+
+
+Package natbib Warning: Citation `nikefuelband:2012' on page 3 undefined on inp
+ut line 14.
+
+[3]
+
+Package natbib Warning: Citation `fuelbandpress:2013' on page 4 undefined on in
+put line 21.
+
+) [4] (./chapters/design.tex
+
+Package natbib Warning: Citation `bertoni:2002' on page 5 undefined on input li
+ne 1.
+
+
+Package natbib Warning: Citation `walkers:2013' on page 5 undefined on input li
+ne 1.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
+
+
+Package natbib Warning: Citation `sketch:2013' on page 5 undefined on input lin
+e 3.
+
+
+Package natbib Warning: Citation `colourBlind' on page 5 undefined on input lin
+e 3.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
@@ -352,6 +444,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
  []
 
 
+Package natbib Warning: Citation `rails:2013' on page 6 undefined on input line
+ 7.
+
+
 LaTeX Warning: Reference `dev' on page 6 undefined on input line 7.
 
 
@@ -362,9 +458,53 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
+
+Package natbib Warning: Citation `sublimetext:2011' on page 6 undefined on inpu
+t line 4.
+
+
+Package natbib Warning: Citation `vim:2013' on page 6 undefined on input line 4
+.
+
+
+Package natbib Warning: Citation `sass:2006' on page 6 undefined on input line 
+4.
+
+
+Package natbib Warning: Citation `iterm:2011' on page 6 undefined on input line
+ 4.
+
+
+Package natbib Warning: Citation `zsh:2009' on page 6 undefined on input line 4
+.
+
+
+Package natbib Warning: Citation `git:2014' on page 6 undefined on input line 4
+.
+
+
+Package natbib Warning: Citation `gitflow:2010' on page 6 undefined on input li
+ne 4.
+
+
+Package natbib Warning: Citation `heroku:2007' on page 6 undefined on input lin
+e 4.
+
+
+LaTeX Warning: Reference `sec:deployment' on page 6 undefined on input line 4.
+
+
+LaTeX Warning: Reference `sec:deployment' on page 6 undefined on input line 4.
+
+
+Package natbib Warning: Citation `dash:2014' on page 6 undefined on input line 
+4.
+
 [6] [7]
-LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
-(Font)              scaled to size 11.39996pt on input line 10.
+
+Package natbib Warning: Citation `grunt:2013' on page 8 undefined on input line
+ 10.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
@@ -380,12 +520,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[8]
+
+Package natbib Warning: Citation `twitter:2006' on page 8 undefined on input li
+ne 26.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
@@ -417,18 +561,11 @@ Overfull \hbox (4.18329pt too wide) in paragraph at lines 54--55
  the cur-rent date and the "Cre-ated_at()"
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
-
- []
-
-[11]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 56.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
@@ -437,7 +574,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
+[11]
+
+Package natbib Warning: Citation `mysql:1995' on page 12 undefined on input lin
+e 66.
+
+
+Package natbib Warning: Citation `postgres:1995' on page 12 undefined on input 
+line 66.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Package natbib Warning: Citation `capistrano:2013' on page 12 undefined on inpu
+t line 68.
+
 ) [12] (./dissertation.bbl
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 7.
+
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
@@ -449,28 +607,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--131
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [14] (./dissertation.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[14] (./dissertation.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 3247 strings out of 493315
- 47998 string characters out of 6137904
- 101685 words of memory out of 5000000
- 6636 multiletter control sequences out of 15000+600000
- 14455 words of font info for 37 fonts, out of 8000000 for 9000
+ 5126 strings out of 493315
+ 74400 string characters out of 6137904
+ 150008 words of memory out of 5000000
+ 8488 multiletter control sequences out of 15000+600000
+ 12330 words of font info for 30 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,35p,3023b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,74p,3029b,1031s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.en
-c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
-c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
-2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
-EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (15 pages, 293258 bytes).
+c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.enc}
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond12-
+Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
+Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
+m-super/sftt1200.pfb>
+Output written on dissertation.pdf (15 pages, 318057 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

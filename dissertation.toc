@@ -9,7 +9,7 @@
 \contentsline {section}{\numberline {3}Design}{5}
 \contentsline {section}{\numberline {4}Development}{6}
 \contentsline {subsection}{\numberline {4.1}Tools}{7}
-\contentsline {subsection}{\numberline {4.2}Gems}{8}
+\contentsline {subsection}{\numberline {4.2}Gems}{7}
 \contentsline {subsection}{\numberline {4.3}Development Log}{8}
 \contentsline {subsection}{\numberline {4.4}Deployment}{12}
 \contentsline {section}{\numberline {5}Testing}{12}
