@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  22 FEB 2014 18:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  25 FEB 2014 11:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -311,60 +311,166 @@ ne 22.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 16.41594pt on input line 22.
 
-(./dissertation.toc)
-\tf@toc=\write3
-\openout3 = `dissertation.toc'.
-
- [1] (./chapters/intro.tex
+(./dissertation.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
 ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `dissertation.toc'.
 
+ [1] (./chapters/intro.tex) (./chapters/litreview.tex
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
+able
+(Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
+ne 1.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
+(Font)              scaled to size 13.67995pt on input line 1.
 
-LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
-
-
-LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
-
-
+[2] [3]) [4] (./chapters/design.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
 
-LaTeX Warning: File `wireframe.jpeg' not found on input line 5.
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
 
 
-./chapters/intro.tex:5: Package pdftex.def Error: File `wireframe.jpeg' not fou
-nd.
+LaTeX Warning: Reference `dev' on page 6 undefined on input line 7.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.5 \includegraphics[width=90mm]{wireframe.jpeg}
-                                                
-? 
-./chapters/intro.tex:5: Emergency stop.
- ...                                              
-                                                  
-l.5 \includegraphics[width=90mm]{wireframe.jpeg}
-                                                
-Using draft setting for this image.
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
 
- 
+LaTeX Warning: Reference `dev' on page 6 undefined on input line 7.
+
+) (./chapters/development.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+[6] [7]
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Overfull \hbox (5.54558pt too wide) in paragraph at lines 45--46
+\T1/EBGaramond-LF/m/n/12 rea-son has hav-ing the drop down menu on type, to add
+ con-sis-tency to the in-puts and through-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+[10]
+Overfull \hbox (4.18329pt too wide) in paragraph at lines 54--55
+[]\T1/EBGaramond-LF/m/n/12 Using Rails to-day "Date.current()" func-tion to get
+ the cur-rent date and the "Cre-ated_at()"
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+) [12] (./dissertation.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 54--58
+\T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
+-fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 127--131
+\T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
+igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
+ []
+
+) [14] (./dissertation.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3137 strings out of 493315
- 46145 string characters out of 6137904
- 97867 words of memory out of 5000000
- 6545 multiletter control sequences out of 15000+600000
- 11043 words of font info for 27 fonts, out of 8000000 for 9000
+ 3247 strings out of 493315
+ 47998 string characters out of 6137904
+ 101685 words of memory out of 5000000
+ 6636 multiletter control sequences out of 15000+600000
+ 14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,35p,2164b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
-./chapters/intro.tex:5:  ==> Fatal error occurred, no output PDF file produced!
+ 38i,6n,35p,3023b,244s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.en
+c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
+c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
+2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
+EBGaramond12-Regular.pfb>
+Output written on dissertation.pdf (15 pages, 293258 bytes).
+PDF statistics:
+ 63 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

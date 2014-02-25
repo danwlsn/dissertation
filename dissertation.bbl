@@ -18,12 +18,6 @@ Coding, B.  \harvardyearleft 2013\harvardyearright , `Sketchapp'.
 \newblock < Dec, 2013 >.
 \newline\harvardurl{www.bohemiancoding.com/sketch/}
 
-\harvarditem{ColourBlindAwareness}{1999}{colourBlind}
-ColourBlindAwareness  \harvardyearleft 1999\harvardyearright , `Colour
-  blindness'.
-\newblock < Dec, 2013 >.
-\newline\harvardurl{www.colourblindawareness.org/colour-blindness/}
-
 \harvarditem[Dorsey et~al.]{Dorsey, Glass, Williams \harvardand\
   Stone}{2006}{twitter:2006}
 Dorsey, J., Glass, N., Williams, E. \harvardand\ Stone, B.  \harvardyearleft
@@ -83,6 +77,11 @@ Moolenaar, B.  \harvardyearleft 2013\harvardyearright , `Vim'.
 Nachman, G.  \harvardyearleft 2011\harvardyearright , `iterm 2'.
 \newblock <Feb 16th 2014 >.
 \newline\harvardurl{http://www.iterm2.com}
+
+\harvarditem{NHS}{2012}{colourBlind}
+NHS  \harvardyearleft 2012\harvardyearright , `Colour vision deficiency'.
+\newblock < Dec, 2013 >.
+\newline\harvardurl{http://www.nhs.uk/conditions/Colour-vision-deficiency/Pages/Introduction.aspx}
 
 \harvarditem{Nike}{2012}{nikefuelband:2012}
 Nike  \harvardyearleft 2012\harvardyearright , `Nike+ fuel band'.
