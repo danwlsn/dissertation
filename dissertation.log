@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  25 FEB 2014 21:35
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -363,25 +363,24 @@ ne 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 16.41594pt on input line 33.
 
-(./dissertation.toc)
-\tf@toc=\write3
-\openout3 = `dissertation.toc'.
-
- [1] (./chapters/intro.tex
+(./dissertation.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <12> not availab
 le
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
 ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `dissertation.toc'.
 
-
-LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
-
-
-LaTeX Warning: Reference `sec:design' on page 2 undefined on input line 1.
-
-) (./chapters/litreview.tex
+ [1] (./chapters/intro.tex) (./chapters/litreview.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
@@ -389,128 +388,41 @@ ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
 
-
-Package natbib Warning: Citation `theordre:1985' on page 2 undefined on input l
-ine 2.
-
-[2]
-
-Package natbib Warning: Citation `fitocracy:2007' on page 3 undefined on input 
-line 10.
-
-
-Package natbib Warning: Citation `jawbone:2011' on page 3 undefined on input li
-ne 14.
-
-
-Package natbib Warning: Citation `nikefuelband:2012' on page 3 undefined on inp
-ut line 14.
-
-[3]
-
-Package natbib Warning: Citation `fuelbandpress:2013' on page 4 undefined on in
-put line 21.
-
-) [4] (./chapters/design.tex
-
-Package natbib Warning: Citation `bertoni:2002' on page 5 undefined on input li
-ne 1.
-
-
-Package natbib Warning: Citation `walkers:2013' on page 5 undefined on input li
-ne 1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[2] [3]) [4] (./chapters/design.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
 
-Package natbib Warning: Citation `sketch:2013' on page 5 undefined on input lin
-e 3.
-
-
-Package natbib Warning: Citation `colourBlind' on page 5 undefined on input lin
-e 3.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-[5]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-
-Package natbib Warning: Citation `rails:2013' on page 6 undefined on input line
- 7.
-
-
-LaTeX Warning: Reference `dev' on page 6 undefined on input line 7.
-
-
-LaTeX Warning: Reference `dev' on page 6 undefined on input line 7.
-
-) (./chapters/development.tex
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 
-Package natbib Warning: Citation `sublimetext:2011' on page 6 undefined on inpu
-t line 4.
+LaTeX Warning: Reference `dev' on page 6 undefined on input line 11.
 
 
-Package natbib Warning: Citation `vim:2013' on page 6 undefined on input line 4
-.
+LaTeX Warning: Reference `dev' on page 6 undefined on input line 11.
 
+) [6] (./chapters/development.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
-Package natbib Warning: Citation `sass:2006' on page 6 undefined on input line 
-4.
+ []
 
-
-Package natbib Warning: Citation `iterm:2011' on page 6 undefined on input line
- 4.
-
-
-Package natbib Warning: Citation `zsh:2009' on page 6 undefined on input line 4
-.
-
-
-Package natbib Warning: Citation `git:2014' on page 6 undefined on input line 4
-.
-
-
-Package natbib Warning: Citation `gitflow:2010' on page 6 undefined on input li
-ne 4.
-
-
-Package natbib Warning: Citation `heroku:2007' on page 6 undefined on input lin
-e 4.
-
-
-LaTeX Warning: Reference `sec:deployment' on page 6 undefined on input line 4.
-
-
-LaTeX Warning: Reference `sec:deployment' on page 6 undefined on input line 4.
-
-
-Package natbib Warning: Citation `dash:2014' on page 6 undefined on input line 
-4.
-
-[6] [7]
-
-Package natbib Warning: Citation `grunt:2013' on page 8 undefined on input line
- 10.
-
+[7]
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
+(Font)              scaled to size 11.39996pt on input line 10.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
@@ -521,15 +433,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
  []
 
 
-Package natbib Warning: Citation `twitter:2006' on page 8 undefined on input li
-ne 26.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-[8]
+
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
@@ -544,7 +452,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-
+[10]
 Overfull \hbox (5.54558pt too wide) in paragraph at lines 45--46
 \T1/EBGaramond-LF/m/n/12 rea-son has hav-ing the drop down menu on type, to add
  con-sis-tency to the in-puts and through-
@@ -555,17 +463,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[10]
+
 Overfull \hbox (4.18329pt too wide) in paragraph at lines 54--55
 []\T1/EBGaramond-LF/m/n/12 Using Rails to-day "Date.current()" func-tion to get
  the cur-rent date and the "Cre-ated_at()"
  []
 
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 56.
-(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
 
@@ -574,75 +489,40 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-[11]
-
-Package natbib Warning: Citation `mysql:1995' on page 12 undefined on input lin
-e 66.
-
-
-Package natbib Warning: Citation `postgres:1995' on page 12 undefined on input 
-line 66.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-
-Package natbib Warning: Citation `capistrano:2013' on page 12 undefined on inpu
-t line 68.
-
-) [12] (./dissertation.bbl
-LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
-(Font)              scaled to size 11.39996pt on input line 7.
-
+) [12] [13] (./dissertation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
  []
 
-[13]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 127--131
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
-[14] (./dissertation.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+) [15] (./dissertation.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 5126 strings out of 493315
- 74400 string characters out of 6137904
- 150008 words of memory out of 5000000
- 8488 multiletter control sequences out of 15000+600000
- 12330 words of font info for 30 fonts, out of 8000000 for 9000
+ 5031 strings out of 493315
+ 73107 string characters out of 6137904
+ 147008 words of memory out of 5000000
+ 8391 multiletter control sequences out of 15000+600000
+ 14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,74p,3029b,1031s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,6n,35p,3023b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.en
-c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.enc}
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond12-
-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
-Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
-m-super/sftt1200.pfb>
-Output written on dissertation.pdf (15 pages, 318057 bytes).
+c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
+c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
+2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
+EBGaramond12-Regular.pfb>
+Output written on dissertation.pdf (16 pages, 293886 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 66 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
