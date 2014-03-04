@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 16:40
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 16:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -503,8 +503,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-) (./chapters/testing.tex) (./chapters/evaluation.tex)
-(./chapters/conclusion.tex) [13] [14] (./dissertation.bbl
+) (./chapters/testing.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+[13]) (./chapters/evaluation.tex) (./chapters/conclusion.tex) [14]
+(./dissertation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
@@ -534,7 +544,7 @@ c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
 c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
 2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
 EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (17 pages, 295778 bytes).
+Output written on dissertation.pdf (17 pages, 296648 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
