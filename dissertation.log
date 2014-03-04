@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 17:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 17:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -381,6 +381,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `dissertation.toc'.
 
  [1] (./chapters/intro.tex
+
+LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 1.
+
+
+LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 1.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
@@ -535,10 +542,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5062 strings out of 493315
- 73913 string characters out of 6137904
+ 5063 strings out of 493315
+ 73928 string characters out of 6137904
  148008 words of memory out of 5000000
- 8409 multiletter control sequences out of 15000+600000
+ 8410 multiletter control sequences out of 15000+600000
  14768 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,35p,3026b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -549,7 +556,7 @@ Here is how much of TeX's memory you used:
 Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
 Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
 m-super/sftt1200.pfb>
-Output written on dissertation.pdf (17 pages, 319842 bytes).
+Output written on dissertation.pdf (17 pages, 319724 bytes).
 PDF statistics:
  74 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream

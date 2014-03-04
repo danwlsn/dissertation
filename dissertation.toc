@@ -1,16 +1,16 @@
 \contentsline {section}{\numberline {1}Introduction}{2}
-\contentsline {section}{\numberline {2}Literature Review}{2}
-\contentsline {subsection}{\numberline {2.1}Introduction}{2}
+\contentsline {section}{\numberline {2}Literature Review}{3}
+\contentsline {subsection}{\numberline {2.1}Introduction}{3}
 \contentsline {subsection}{\numberline {2.2}Related work}{3}
 \contentsline {subsubsection}{\numberline {2.2.1}Fitocracy}{3}
-\contentsline {subsubsection}{\numberline {2.2.2}Fitbit}{3}
+\contentsline {subsubsection}{\numberline {2.2.2}Fitbit}{4}
 \contentsline {subsubsection}{\numberline {2.2.3}Nike+ FuelBand}{4}
-\contentsline {subsection}{\numberline {2.3}Conclusion}{4}
+\contentsline {subsection}{\numberline {2.3}Conclusion}{5}
 \contentsline {section}{\numberline {3}Design}{5}
 \contentsline {subsection}{\numberline {3.1}Grid design}{5}
-\contentsline {subsection}{\numberline {3.2}Wireframe and mock up}{5}
+\contentsline {subsection}{\numberline {3.2}Wireframe and mock up}{6}
 \contentsline {subsection}{\numberline {3.3}Design in the browser}{6}
-\contentsline {subsection}{\numberline {3.4}Database design}{6}
+\contentsline {subsection}{\numberline {3.4}Database design}{7}
 \contentsline {section}{\numberline {4}Development}{7}
 \contentsline {subsection}{\numberline {4.1}Tools}{7}
 \contentsline {subsection}{\numberline {4.2}Gems}{8}
