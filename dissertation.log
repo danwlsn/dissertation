@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 16:12
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -380,7 +380,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [1] (./chapters/intro.tex) (./chapters/litreview.tex
+ [1] (./chapters/intro.tex
+Package epstopdf Info: Source file: <chapters/figs/lewis.eps>
+(epstopdf)                    date: 2014-03-04 16:19:41
+(epstopdf)                    size: 6228516 bytes
+(epstopdf)             Output file: <chapters/figs/lewis-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-04 16:21:19
+(epstopdf)                    size: 232794 bytes
+(epstopdf)             Command: <repstopdf --outfile=chapters/figs/lewis-eps-co
+nverted-to.pdf chapters/figs/lewis.eps>
+(epstopdf)             \includegraphics on input line 4.
+Package epstopdf Info: Output file is already uptodate.
+
+<chapters/figs/lewis-eps-converted-to.pdf, id=10, 1284.8pt x 803.0pt>
+File: chapters/figs/lewis-eps-converted-to.pdf Graphic file (type pdf)
+
+<use chapters/figs/lewis-eps-converted-to.pdf>
+Package pdftex.def Info: chapters/figs/lewis-eps-converted-to.pdf used on input
+ line 4.
+(pdftex.def)             Requested size: 128.48752pt x 80.3047pt.
+) (./chapters/litreview.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
@@ -388,7 +407,8 @@ ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
 
-[2] [3]) [4] (./chapters/design.tex
+[2 <./chapters/figs/lewis-eps-converted-to.pdf>] [3] [4])
+(./chapters/design.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -489,7 +509,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--63
 
  []
 
-) [12] [13] (./dissertation.bbl
+[12]) [13] (./dissertation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
@@ -501,28 +521,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--131
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [15] (./dissertation.aux)
+) [15] (./dissertation.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 5031 strings out of 493315
- 73107 string characters out of 6137904
- 147008 words of memory out of 5000000
- 8391 multiletter control sequences out of 15000+600000
+ 5052 strings out of 493315
+ 73379 string characters out of 6137904
+ 148008 words of memory out of 5000000
+ 8397 multiletter control sequences out of 15000+600000
  14455 words of font info for 37 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,6n,35p,3023b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,35p,3023b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_euh4o4.en
 c}{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_fhfxmf.en
 c}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond1
 2-Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/
 EBGaramond12-Regular.pfb>
-Output written on dissertation.pdf (16 pages, 293886 bytes).
+Output written on dissertation.pdf (16 pages, 524908 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
