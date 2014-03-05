@@ -2,7 +2,7 @@
 \contentsline {subsection}{\numberline {1.1}Fitness applications}{3}
 \contentsline {subsection}{\numberline {1.2}Benefits of being fit and healthy}{3}
 \contentsline {subsection}{\numberline {1.3}Applications}{3}
-\contentsline {subsection}{\numberline {1.4}recur}{3}
+\contentsline {subsection}{\numberline {1.4}Recur}{3}
 \contentsline {subsection}{\numberline {1.5}Learnings}{4}
 \contentsline {subsection}{\numberline {1.6}Chapters}{4}
 \contentsline {section}{\numberline {2}Literature Review}{5}
