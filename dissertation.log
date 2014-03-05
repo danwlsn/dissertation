@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  4 MAR 2014 17:25
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  5 MAR 2014 14:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -371,40 +371,50 @@ ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 11.39996pt on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
+(Font)              <12> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 3.
+(Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 3.
+(Font)              <6> on input line 2.
 )
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [1] (./chapters/intro.tex
-
-LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 1.
-
-
-LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 1.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--2
-
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 3--39
-
- []
-
-(./chapters/litreview.tex
+ [1] [2] (./chapters/intro.tex
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bx/n' in size <14.4> not avail
 able
 (Font)              Font shape `T1/EBGaramond-LF/m/n' tried instead on input li
 ne 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' will be
 (Font)              scaled to size 13.67995pt on input line 1.
- [2] [3] [4]) (./chapters/design.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+[3]
+
+LaTeX Warning: Reference `sec:litreview' on page 4 undefined on input line 25.
+
+
+LaTeX Warning: Reference `sec:litreview' on page 4 undefined on input line 25.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+) (./chapters/litreview.tex [4] [5] [6]) (./chapters/design.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -414,23 +424,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[5]
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 
-LaTeX Warning: Reference `dev' on page 6 undefined on input line 11.
+LaTeX Warning: Reference `dev' on page 8 undefined on input line 11.
 
 
-LaTeX Warning: Reference `dev' on page 6 undefined on input line 11.
+LaTeX Warning: Reference `dev' on page 8 undefined on input line 11.
 
-) [6] (./chapters/development.tex
+) [8] (./chapters/development.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-[7]
+[9]
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
 (Font)              scaled to size 11.39996pt on input line 10.
 
@@ -438,7 +448,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[8]
+[10]
 Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
@@ -463,12 +473,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-[9]
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[10]
+[12]
 Overfull \hbox (5.54558pt too wide) in paragraph at lines 45--46
 \T1/EBGaramond-LF/m/n/12 rea-son has hav-ing the drop down menu on type, to add
  con-sis-tency to the in-puts and through-
@@ -493,7 +503,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--55
 
  []
 
-[11]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
@@ -508,7 +518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-[12]
+[14]
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
@@ -523,20 +533,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-[13]) (./chapters/evaluation.tex) (./chapters/conclusion.tex) [14]
+[15]) (./chapters/evaluation.tex) (./chapters/conclusion.tex) [16]
 (./dissertation.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
  []
 
-[15]
+[17]
 Underfull \hbox (badness 10000) in paragraph at lines 127--131
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [16] (./dissertation.aux)
+) [18] (./dissertation.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -556,10 +566,10 @@ Here is how much of TeX's memory you used:
 Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
 Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
 m-super/sftt1200.pfb>
-Output written on dissertation.pdf (17 pages, 319724 bytes).
+Output written on dissertation.pdf (19 pages, 321920 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 81 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
