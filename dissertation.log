@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  5 MAR 2014 14:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  14 MAR 2014 17:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -535,27 +535,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
 [15]) (./chapters/evaluation.tex) (./chapters/conclusion.tex) [16]
 (./dissertation.bbl
+Underfull \hbox (badness 1400) in paragraph at lines 23--27
+[]\T1/EBGaramond-LF/m/n/12 Dorsey, J., Glass, N., Williams, E. & Stone, B. (200
+6), `Twit-ter'.  <Ac-cessed on :
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 54--58
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://nikeinc.com/nike
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 127--131
+Underfull \hbox (badness 10000) in paragraph at lines 132--136
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [18] (./dissertation.aux)
+) [18] (./dissertation.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 5063 strings out of 493315
- 73928 string characters out of 6137904
+ 5066 strings out of 493315
+ 73985 string characters out of 6137904
  148008 words of memory out of 5000000
- 8410 multiletter control sequences out of 15000+600000
+ 8413 multiletter control sequences out of 15000+600000
  14768 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,6n,35p,3026b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -566,7 +577,7 @@ Here is how much of TeX's memory you used:
 Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
 Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
 m-super/sftt1200.pfb>
-Output written on dissertation.pdf (19 pages, 321920 bytes).
+Output written on dissertation.pdf (19 pages, 322938 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream
