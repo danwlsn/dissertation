@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  15 MAR 2014 12:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  15 MAR 2014 13:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -441,12 +441,36 @@ LaTeX Warning: Reference `dev' on page 8 undefined on input line 18.
 
 LaTeX Warning: Reference `dev' on page 8 undefined on input line 18.
 
-) [8] (./chapters/development.tex
+[8]
+Package epstopdf Info: Source file: <chapters/figs/erd.eps>
+(epstopdf)                    date: 2014-03-15 12:56:56
+(epstopdf)                    size: 230658 bytes
+(epstopdf)             Output file: <chapters/figs/erd-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-03-15 12:58:23
+(epstopdf)                    size: 67829 bytes
+(epstopdf)             Command: <repstopdf --outfile=chapters/figs/erd-eps-conv
+erted-to.pdf chapters/figs/erd.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+ <chapters/figs/erd-eps-converted-to.pdf, id=33, 868.24374pt x 667.49374pt>
+File: chapters/figs/erd-eps-converted-to.pdf Graphic file (type pdf)
+
+<use chapters/figs/erd-eps-converted-to.pdf>
+Package pdftex.def Info: chapters/figs/erd-eps-converted-to.pdf used on input l
+ine 22.
+(pdftex.def)             Requested size: 434.1208pt x 333.74606pt.
+
+Overfull \hbox (44.1208pt too wide) in paragraph at lines 22--23
+ [][] 
+ []
+
+) (./chapters/development.tex
 Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
  []
 
-[9 <./chapters/figs/flowchart.png (PNG copy)>] [10]
+[9 <./chapters/figs/flowchart.png (PNG copy)>] [10 <./chapters/figs/erd-eps-con
+verted-to.pdf>]
 LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' will be
 (Font)              scaled to size 11.39996pt on input line 10.
 
@@ -454,7 +478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-
+[11]
 Underfull \hbox (badness 10000) in paragraph at lines 21--23
 
  []
@@ -464,12 +488,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
  []
 
-[11]
+
 Underfull \hbox (badness 10000) in paragraph at lines 26--27
 
  []
 
-
+[12]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
@@ -479,7 +503,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-[12]
+[13]
 Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
@@ -495,7 +519,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[13]
+[14]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 54.
  (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
@@ -515,7 +539,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 56--57
 
  []
 
-[14]
+
 Underfull \hbox (badness 10000) in paragraph at lines 58--59
 
  []
@@ -525,22 +549,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
-
+[15]
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-[15]) (./chapters/testing.tex
+) (./chapters/testing.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
 
-
+[16]
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) (./chapters/evaluation.tex [16]) (./chapters/conclusion.tex) [17]
+) (./chapters/evaluation.tex [17]) (./chapters/conclusion.tex) [18]
 (./dissertation.bbl
 Underfull \hbox (badness 1400) in paragraph at lines 23--27
 []\T1/EBGaramond-LF/m/n/12 Dorsey, J., Glass, N., Williams, E. & Stone, B. (200
@@ -553,13 +577,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--58
 -fuelband/news/nike-unveils-nike-fuelband-se-and-nike-
  []
 
-[18]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 132--136
 \T1/EBGaramond-LF/m/n/12 URL: \T1/EBGaramond-LF/m/it/12 http://www.walkersandsd
 igital.com/Walker-Sands-Mobile-Traffic-Report-Q2-
  []
 
-) [19] (./dissertation.aux)
+) [20] (./dissertation.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -568,10 +592,10 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 5075 strings out of 493315
- 74164 string characters out of 6137904
+ 5093 strings out of 493315
+ 74405 string characters out of 6137904
  148008 words of memory out of 5000000
- 8419 multiletter control sequences out of 15000+600000
+ 8424 multiletter control sequences out of 15000+600000
  14768 words of font info for 38 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,7n,35p,3026b,903s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -582,10 +606,10 @@ Here is how much of TeX's memory you used:
 Italic.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ebgaramond/EB
 Garamond12-Regular.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/c
 m-super/sftt1200.pfb>
-Output written on dissertation.pdf (20 pages, 363702 bytes).
+Output written on dissertation.pdf (21 pages, 428636 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
+ 111 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
