@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  19 MAR 2014 15:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  19 MAR 2014 15:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -205,19 +205,19 @@ Package tocbibind Note: Using chapter style headings, unless overridden.
 ) (./dissertation.aux)
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 34.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -316,51 +316,52 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \c@lstlisting=\count107
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 36
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 36
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 36
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 37
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 36
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
  [1
 
 
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 39.
- [1
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
 
-] [2
+(./chapters/acknowledgments.tex) [1
+
+] (./chapters/abstract.tex) [2
 
 ]
 (./dissertation.toc
@@ -387,7 +388,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 ]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 48.
 (./chapters/intro.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
@@ -591,8 +592,8 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4822 strings out of 493315
- 67692 string characters out of 6137904
+ 4828 strings out of 493315
+ 67817 string characters out of 6137904
  151013 words of memory out of 5000000
  8147 multiletter control sequences out of 15000+600000
  54031 words of font info for 76 fonts, out of 8000000 for 9000
@@ -605,7 +606,7 @@ ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (25 pages, 235818 bytes).
+Output written on dissertation.pdf (25 pages, 235919 bytes).
 PDF statistics:
  131 PDF objects out of 1000 (max. 8388607)
  90 compressed objects within 1 object stream
