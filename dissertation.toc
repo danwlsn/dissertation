@@ -1,37 +1,41 @@
-\contentsline {section}{\numberline {1}Introduction}{3}
-\contentsline {subsection}{\numberline {1.1}Fitness applications}{3}
-\contentsline {subsection}{\numberline {1.2}Benefits of being fit and healthy}{3}
-\contentsline {subsection}{\numberline {1.3}Applications}{3}
-\contentsline {subsection}{\numberline {1.4}Recur}{3}
-\contentsline {subsection}{\numberline {1.5}Learnings}{4}
-\contentsline {subsection}{\numberline {1.6}Chapters}{4}
-\contentsline {section}{\numberline {2}Literature Review}{5}
-\contentsline {subsection}{\numberline {2.1}Introduction}{5}
-\contentsline {subsection}{\numberline {2.2}Related work}{5}
-\contentsline {subsubsection}{\numberline {2.2.1}Fitocracy}{5}
-\contentsline {subsubsection}{\numberline {2.2.2}Fitbit}{6}
-\contentsline {subsubsection}{\numberline {2.2.3}Nike+ FuelBand}{6}
-\contentsline {subsection}{\numberline {2.3}Conclusion}{7}
-\contentsline {section}{\numberline {3}Design}{7}
-\contentsline {subsection}{\numberline {3.1}Grid design}{7}
-\contentsline {subsection}{\numberline {3.2}Wireframe and mock up}{8}
-\contentsline {subsection}{\numberline {3.3}Design in the browser}{8}
-\contentsline {subsection}{\numberline {3.4}Database design}{9}
-\contentsline {section}{\numberline {4}Development}{9}
-\contentsline {subsection}{\numberline {4.1}Tools}{10}
-\contentsline {subsection}{\numberline {4.2}Gems}{11}
-\contentsline {subsection}{\numberline {4.3}Development Log}{12}
-\contentsline {subsection}{\numberline {4.4}Clean up}{16}
-\contentsline {subsection}{\numberline {4.5}Deployment}{16}
-\contentsline {section}{\numberline {5}Testing}{17}
-\contentsline {subsection}{\numberline {5.1}Introduction}{17}
-\contentsline {subsection}{\numberline {5.2}Methodologies}{17}
-\contentsline {subsection}{\numberline {5.3}Tools}{17}
-\contentsline {subsubsection}{\numberline {5.3.1}Rspec}{17}
-\contentsline {subsubsection}{\numberline {5.3.2}Chrome Development Tools}{17}
-\contentsline {section}{\numberline {6}Evaluation}{17}
-\contentsline {subsection}{\numberline {6.1}Introduction}{17}
-\contentsline {subsection}{\numberline {6.2}First release}{17}
-\contentsline {subsection}{\numberline {6.3}Conclusion}{18}
-\contentsline {section}{\numberline {7}Conclusion}{18}
-\contentsline {section}{\numberline {8}Bibliography}{19}
+\contentsline {chapter}{Acknowledgments}{i}
+\contentsline {chapter}{Abstract}{ii}
+\contentsline {chapter}{List of Figures}{v}
+\contentsline {chapter}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {1.1}Fitness applications}{1}
+\contentsline {section}{\numberline {1.2}Benefits of being fit and healthy}{1}
+\contentsline {section}{\numberline {1.3}Applications}{1}
+\contentsline {section}{\numberline {1.4}Recur}{1}
+\contentsline {section}{\numberline {1.5}Learnings}{2}
+\contentsline {section}{\numberline {1.6}Thesis structure}{2}
+\contentsline {chapter}{\numberline {2}Literature Review}{3}
+\contentsline {section}{\numberline {2.1}Introduction}{3}
+\contentsline {section}{\numberline {2.2}Related work}{3}
+\contentsline {subsection}{\numberline {2.2.1}Fitocracy}{3}
+\contentsline {subsection}{\numberline {2.2.2}Fitbit}{4}
+\contentsline {subsection}{\numberline {2.2.3}Nike+ FuelBand}{4}
+\contentsline {section}{\numberline {2.3}Conclusion}{4}
+\contentsline {chapter}{\numberline {3}Design}{6}
+\contentsline {section}{\numberline {3.1}Grid design}{6}
+\contentsline {section}{\numberline {3.2}Wireframe and mock up}{6}
+\contentsline {section}{\numberline {3.3}Design in the browser}{7}
+\contentsline {section}{\numberline {3.4}Database design}{7}
+\contentsline {chapter}{\numberline {4}Development}{9}
+\contentsline {section}{\numberline {4.1}Introduction}{9}
+\contentsline {section}{\numberline {4.2}Tools}{9}
+\contentsline {section}{\numberline {4.3}Gems}{10}
+\contentsline {section}{\numberline {4.4}Development Log}{10}
+\contentsline {section}{\numberline {4.5}Clean up}{13}
+\contentsline {section}{\numberline {4.6}Deployment}{13}
+\contentsline {chapter}{\numberline {5}Testing}{15}
+\contentsline {section}{\numberline {5.1}Introduction}{15}
+\contentsline {section}{\numberline {5.2}Methodologies}{15}
+\contentsline {section}{\numberline {5.3}Tools}{15}
+\contentsline {subsection}{\numberline {5.3.1}Rspec}{15}
+\contentsline {subsection}{\numberline {5.3.2}Chrome Development Tools}{15}
+\contentsline {chapter}{\numberline {6}Evaluation}{16}
+\contentsline {section}{\numberline {6.1}Introduction}{16}
+\contentsline {section}{\numberline {6.2}First release}{16}
+\contentsline {section}{\numberline {6.3}Conclusion}{16}
+\contentsline {chapter}{\numberline {7}Conclusion}{17}
+\contentsline {chapter}{\numberline {8}Bibliography}{18}

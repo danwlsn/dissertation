@@ -1,8 +1,10 @@
-\documentclass[titlepage,a4paper,12pt]{article} % Document Class
+\documentclass[titlepage,a4paper,11pt,oneside]{book} % Document Class
 
 % Font styling
-\usepackage[lining,scaled=.95]{ebgaramond}
+\usepackage{mathptmx}
 \usepackage[T1]{fontenc}
+% Margins
+\usepackage[margin=3cm]{geometry}
 
 % Graphics
 \usepackage{graphicx}
@@ -29,35 +31,49 @@ stringstyle=\color{orange}}
 
 % Document
 \begin{document}
+% Page numbers roman
+%\pagenumbering{Roman}
+\frontmatter
 \maketitle
-\tableofcontents
-\pagebreak
 
-\section{Introduction}
+\chapter{Acknowledgments}
+Thanks to all you lovely people.
+
+\chapter{Abstract}
+Abstract goes here.
+
+\tableofcontents
+\listoffigures
+
+% Page numbers normal
+%\pagenumbering{arabic}
+
+\mainmatter
+\chapter{Introduction}
 \label{sec:mainIntro}
 \input{chapters/intro}
 
-\section{Literature Review}
+\chapter{Literature Review}
 \label{sec:litRev}
 \input{chapters/litreview}
 
-\section{Design}
+\chapter{Design}
 \label{sec:design}
 \input{chapters/design}
 
-\section{Development}
+\chapter{Development}
 \label{sec:dev}
 \input{chapters/development}
 
-\section{Testing}
+\chapter{Testing}
 \label{sec:test}
 \input{chapters/testing}
 
-\section{Evaluation}
+\chapter{Evaluation}
 \label{sec:eval}
 \input{chapters/evaluation}
 
-\section{Conclusion}
+\chapter{Conclusion}
 \label{sec:conc}
 \input{chapters/conclusion}
 
