@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  24 MAR 2014 16:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  24 MAR 2014 17:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -419,6 +419,12 @@ LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 25.
 LaTeX Warning: Reference `sec:litreview' on page 2 undefined on input line 25.
 
 
+LaTeX Warning: Reference `sec:eval' on page 2 undefined on input line 25.
+
+
+LaTeX Warning: Reference `sec:eval' on page 2 undefined on input line 25.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
@@ -557,12 +563,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 59--60
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
@@ -578,14 +589,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-) [15
+[15
 
-]
+]) [16]
 Chapter 6.
-(./chapters/evaluation.tex) [16
-
-]
-Chapter 7.
 (./chapters/conclusion.tex) [17
 
 ] (./dissertation.bbl [18
@@ -597,8 +604,8 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4750 strings out of 493315
- 66679 string characters out of 6137904
+ 4747 strings out of 493315
+ 66621 string characters out of 6137904
  151013 words of memory out of 5000000
  8070 multiletter control sequences out of 15000+600000
  54031 words of font info for 76 fonts, out of 8000000 for 9000
@@ -611,7 +618,7 @@ ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (28 pages, 236374 bytes).
+Output written on dissertation.pdf (28 pages, 237010 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

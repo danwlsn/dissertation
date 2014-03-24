@@ -26,16 +26,14 @@
 \contentsline {section}{\numberline {4.3}Gems}{10}
 \contentsline {section}{\numberline {4.4}Development Log}{10}
 \contentsline {section}{\numberline {4.5}Clean up}{13}
-\contentsline {section}{\numberline {4.6}Deployment}{13}
-\contentsline {chapter}{\numberline {5}Testing}{15}
+\contentsline {section}{\numberline {4.6}Deployment}{14}
+\contentsline {chapter}{\numberline {5}Testing and Evaluation}{15}
 \contentsline {section}{\numberline {5.1}Introduction}{15}
 \contentsline {section}{\numberline {5.2}Methodologies}{15}
 \contentsline {section}{\numberline {5.3}Tools}{15}
 \contentsline {subsection}{\numberline {5.3.1}Rspec}{15}
 \contentsline {subsection}{\numberline {5.3.2}Chrome Development Tools}{15}
-\contentsline {chapter}{\numberline {6}Evaluation}{16}
-\contentsline {section}{\numberline {6.1}Introduction}{16}
-\contentsline {section}{\numberline {6.2}First release}{16}
-\contentsline {section}{\numberline {6.3}Conclusion}{16}
-\contentsline {chapter}{\numberline {7}Conclusion}{17}
+\contentsline {section}{\numberline {5.4}First release}{15}
+\contentsline {section}{\numberline {5.5}Conclusion}{16}
+\contentsline {chapter}{\numberline {6}Conclusion}{17}
 \contentsline {chapter}{References}{18}
