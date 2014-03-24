@@ -23,7 +23,7 @@ stringstyle=\color{orange}}
 \usepackage{cite}
 \usepackage{natbib}
 \bibliographystyle{agsm}
-\usepackage[nottoc,numbib]{tocbibind}
+%\usepackage[nottoc,numbib]{tocbibind}
 
 %Meta data
 \author{Daniel James Wilson}
@@ -79,6 +79,8 @@ stringstyle=\color{orange}}
 \input{chapters/conclusion}
 
 \pagebreak
+\renewcommand{\bibname}{References}
+\addcontentsline{toc}{chapter}{References}
 \bibliography{bib}
 
 \end{document}

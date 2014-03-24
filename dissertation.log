@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  24 MAR 2014 16:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  24 MAR 2014 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -195,13 +195,6 @@ Package natbib Warning: The `cite' package should not be used
 LaTeX Info: Redefining \cite on input line 694.
 LaTeX Info: Redefining \citenum on input line 708.
 \c@NAT@ctr=\count100
-) (/usr/local/texlive/2013/texmf-dist/tex/latex/tocbibind/tocbibind.sty
-Package: tocbibind 2010/10/13 v1.5k extra ToC listings
-Package tocbibind Info: The document has chapter divisions on input line 50.
-
-
-Package tocbibind Note: Using chapter style headings, unless overridden.
-
 ) (./dissertation.aux)
 \openout1 = `dissertation.aux'.
 
@@ -368,11 +361,11 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
  [4
 
 ])
@@ -595,20 +588,19 @@ Chapter 6.
 Chapter 7.
 (./chapters/conclusion.tex) [17
 
-] (./dissertation.bbl
-Chapter 8.
-[18
+] (./dissertation.bbl [18
 
-]) [19] (./dissertation.aux)
+]) [19]
+(./dissertation.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4831 strings out of 493315
- 67855 string characters out of 6137904
+ 4750 strings out of 493315
+ 66679 string characters out of 6137904
  151013 words of memory out of 5000000
- 8147 multiletter control sequences out of 15000+600000
+ 8070 multiletter control sequences out of 15000+600000
  54031 words of font info for 76 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,7n,35p,3026b,869s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -619,7 +611,7 @@ ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (28 pages, 236627 bytes).
+Output written on dissertation.pdf (28 pages, 236374 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream

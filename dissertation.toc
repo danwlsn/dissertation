@@ -1,7 +1,5 @@
 \contentsline {chapter}{Acknowledgments}{ii}
 \contentsline {chapter}{Abstract}{iii}
-\contentsline {chapter}{List of Figures}{vi}
-\contentsline {chapter}{List of Tables}{vii}
 \contentsline {chapter}{Abbreviations}{viii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Fitness applications}{1}
@@ -40,4 +38,4 @@
 \contentsline {section}{\numberline {6.2}First release}{16}
 \contentsline {section}{\numberline {6.3}Conclusion}{16}
 \contentsline {chapter}{\numberline {7}Conclusion}{17}
-\contentsline {chapter}{\numberline {8}Bibliography}{18}
+\contentsline {chapter}{References}{18}
