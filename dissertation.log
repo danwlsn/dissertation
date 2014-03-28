@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  26 MAR 2014 17:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  28 MAR 2014 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -594,7 +594,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
@@ -603,84 +603,84 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
-
- []
-
 [13
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 34--36
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 39--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 43--44
+Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 56--57
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
 
  []
 
 [16]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 69.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 73--74
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 [17]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 74.
+ (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
@@ -690,16 +690,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--79
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 81--82
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-[18]) [19]
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+
+ []
+
+) [19] [20]
 Chapter 5.
 (./chapters/testing.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -716,7 +726,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-[20
+[21
 
 ]
 Overfull \hbox (4.55812pt too wide) in paragraph at lines 16--17
@@ -724,7 +734,7 @@ Overfull \hbox (4.55812pt too wide) in paragraph at lines 16--17
  ma-jor has changed, the de-sign has changed
  []
 
-) [21]
+) [22]
 Chapter 6.
 (./chapters/conclusion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -741,16 +751,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
-[22
+[23
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-) [23] (./dissertation.bbl [24
+) [24] (./dissertation.bbl [25
 
-]) [25] (./dissertation.aux)
+]) [26] (./dissertation.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -761,7 +771,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  4786 strings out of 493315
  67863 string characters out of 6137904
- 150013 words of memory out of 5000000
+ 149013 words of memory out of 5000000
  8105 multiletter control sequences out of 15000+600000
  54031 words of font info for 76 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -773,10 +783,10 @@ ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (34 pages, 1659311 bytes).
+Output written on dissertation.pdf (35 pages, 1662648 bytes).
 PDF statistics:
- 215 PDF objects out of 1000 (max. 8388607)
- 135 compressed objects within 2 object streams
+ 218 PDF objects out of 1000 (max. 8388607)
+ 137 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

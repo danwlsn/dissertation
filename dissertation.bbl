@@ -135,8 +135,8 @@ Popescu, B.  \harvardyearleft 2014\harvardyearright , `Dash'.
 \newblock <Accessed on : 17/02/2014>.
 \newline\harvardurl{http://kapeli.com/dash}
 
-\harvarditem{{\em PostgreSQL}}{PostgreSQL}{postgres:1995}
-{\em PostgreSQL}  \harvardyearleft PostgreSQL\harvardyearright .
+\harvarditem{{\em PostgreSQL}}{1995}{postgres:1995}
+{\em PostgreSQL}  \harvardyearleft 1995\harvardyearright .
 \newblock <Accessed on : 17/02/2014>.
 \newline\harvardurl{http://www.postgresql.org}
 
