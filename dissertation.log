@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  28 MAR 2014 16:01
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  29 MAR 2014 14:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -366,10 +366,19 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 
 (./chapters/acknowledgments.tex) [2
 
-] (./chapters/abstract.tex) [3
+] (./chapters/abstract.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
 
-]
-(./dissertation.toc
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 3--48
+
+ []
+
+[3
+
+] (./dissertation.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
@@ -783,7 +792,7 @@ ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
 xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
 onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (35 pages, 1662648 bytes).
+Output written on dissertation.pdf (35 pages, 1662551 bytes).
 PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  137 compressed objects within 2 object streams
