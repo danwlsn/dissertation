@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex dissertation"] 1396368226 "dissertation.aux" "dissertation.bbl" "dissertation" 1396368229
+["bibtex dissertation"] 1396368226 "dissertation.aux" "dissertation.bbl" "dissertation" 1396372824
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/harvard/agsm.bst" 1136766823 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
   "bib.bib" 1396368219 6525 3ef39e78435cba45544f000e97d61f9b ""
-  "dissertation.aux" 1396368228 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
+  "dissertation.aux" 1396372824 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
   "dissertation.bcf" 0 -1 0 ""
   (generated)
   "dissertation.blg"
   "dissertation.bbl"
-["cusdep nlo nls dissertation"] 1396366935 "dissertation.nlo" "dissertation.nls" "dissertation" 1396368229
-  "dissertation.nlo" 1396368228 505 5a077aac75905b01836b8076cab046d8 ""
+["cusdep nlo nls dissertation"] 1396372822 "dissertation.nlo" "dissertation.nls" "dissertation" 1396372824
+  "dissertation.nlo" 1396372824 611 91671ab8ba6c0d884931e7f7c188c4a8 ""
   (generated)
   "dissertation.nls"
-["pdflatex"] 1396368227 "dissertation.tex" "dissertation.pdf" "dissertation" 1396368229
+["pdflatex"] 1396372822 "dissertation.tex" "dissertation.pdf" "dissertation" 1396372824
   "/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -92,8 +92,8 @@
   "chapters/abstract.tex" 1396362632 454 78395be9c68ddf2562996828fb5b10a4 ""
   "chapters/acknowledgments.tex" 1395679339 277 16e7ef1d4f0ec46185344348334f351f ""
   "chapters/conclusion.tex" 1396362761 4659 5cb75cea24e9c3df10853f457dc682f3 ""
-  "chapters/design.tex" 1396366606 8796 1011fac200dd0b8a5aa57232a3ff3d00 ""
-  "chapters/development.tex" 1396367399 18258 d2f1f5640c63c91ea71031e68e181f64 ""
+  "chapters/design.tex" 1396372363 8789 c02010d1cbdcc8e2749b9ceeaebfb676 ""
+  "chapters/development.tex" 1396372670 18291 7fba2057ad37e977cee2cce7a4cc9afb ""
   "chapters/figs/erd-eps-converted-to.pdf" 1394888303 67829 6c5e571a7925c095c628675cf717ba81 ""
   "chapters/figs/erd.eps" 1394888216 230658 94b38f589352933fe9ed1f11c51584ae ""
   "chapters/figs/flowchart-eps-converted-to.pdf" 1395850602 53542 8e85714117cb336f5000400bc55f3073 ""
@@ -106,20 +106,20 @@
   "chapters/figs/wireframe.eps" 1395850547 22168829 92b171b4465842446f76432be9df0253 ""
   "chapters/figs/wireframe1-eps-converted-to.pdf" 1395850600 508102 acebcbfa665653aefdd01a514d33624f ""
   "chapters/figs/wireframe1.eps" 1395850552 21697941 2cd5c0ed8e45add7e6af1a34b7ecba66 ""
-  "chapters/intro.tex" 1396362986 6015 914dffb017573ea3fba581ff13dfbd82 ""
-  "chapters/litreview.tex" 1396363063 7232 2fe1c3661e8f23a70a12f434dc0590fe ""
-  "chapters/resources.tex" 1396366931 8211 d3bece872d8ca1756cb7ac68db903ee0 ""
+  "chapters/intro.tex" 1396372168 6163 e2fd8d81120d2c9bcd7ba0f73f473cea ""
+  "chapters/litreview.tex" 1396372282 7240 088bcc293232ffcfe242351c02218e4c ""
+  "chapters/resources.tex" 1396372546 8261 a73e22e3892df39928ce7d7dbf351c83 ""
   "chapters/testing.tex" 1396368163 7439 0b2749d10c7e1c608540701fc0c13196 ""
-  "dissertation.aux" 1396368228 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
+  "dissertation.aux" 1396372824 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
   "dissertation.bbl" 1396368227 7939 34e7e851372c030aaceb3e35a40e1162 "bibtex dissertation"
-  "dissertation.lof" 1396368228 915 20b794492367e2ff4a344ea02f8861ef ""
-  "dissertation.nls" 1396366936 496 1b31c33bffeb1218b84ffd07f0c9ca81 "cusdep nlo nls dissertation"
-  "dissertation.tex" 1396366574 1847 0f7e86076eef36b98894dee130fcebd1 ""
-  "dissertation.toc" 1396368228 3196 5b1d2baaaa0c98761421d57580263358 ""
+  "dissertation.lof" 1396372824 915 20b794492367e2ff4a344ea02f8861ef ""
+  "dissertation.nls" 1396372822 587 eefad1601795dac8b9c67c02fe77cd94 "cusdep nlo nls dissertation"
+  "dissertation.tex" 1396372182 1847 0f7e86076eef36b98894dee130fcebd1 ""
+  "dissertation.toc" 1396372824 3196 5b1d2baaaa0c98761421d57580263358 ""
   (generated)
-  "dissertation.aux"
   "dissertation.toc"
+  "dissertation.aux"
   "dissertation.pdf"
-  "dissertation.nlo"
   "dissertation.lof"
+  "dissertation.nlo"
   "dissertation.log"

@@ -1,4 +1,5 @@
 \nomenclatureentry{aHTML@[{HTML}]\begingroup HyperText Markup Language\nomeqref {3.0}|nompageref}{8}
+\nomenclatureentry{aCRUD@[{CRUD}]\begingroup Create, Read, Update, Destroy\nomeqref {4.0}|nompageref}{14}
 \nomenclatureentry{aCSS@[{CSS}]\begingroup Cascading Stylesheets\nomeqref {5.0}|nompageref}{17}
 \nomenclatureentry{aMVC@[{MVC}]\begingroup Model View Controller\nomeqref {5.0}|nompageref}{18}
 \nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous JavaScript and XML\nomeqref {5.0}|nompageref}{18}
