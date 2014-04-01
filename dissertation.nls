@@ -1,0 +1,10 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{HTML}]\begingroup Hyper text markup language\nomeqref {3.0}
+		\nompageref{8}
+  \item [{HTML}]\begingroup Hyper text markup language\nomeqref {5.0}
+		\nompageref{17}, \nompageref{19}
+
+\end{thenomenclature}

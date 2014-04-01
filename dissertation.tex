@@ -25,11 +25,17 @@ stringstyle=\color{orange}}
 \bibliographystyle{agsm}
 %\usepackage[nottoc,numbib]{tocbibind}
 
+% Abbreviations
+%\usepackage[refpage]{nomencl}
+%\renewcommand{\nomname}{Abbreviations}
+%\makenomenclature
+
 %Meta data
 \author{Daniel James Wilson}
 \title{Progress Monitoring Web Application}
 \date{\parbox{\linewidth}{\centering%
   \today\endgraf\bigskip
+  Supervisor:\\
   Moi Hoon Yap}}
 
 
@@ -38,10 +44,8 @@ stringstyle=\color{orange}}
 \frontmatter % roman numbers
 \maketitle
 
-\begin{center}
 \chapter{Acknowledgments}
 \input{chapters/acknowledgments}
-\end{center}
 
 \chapter{Abstract}
 \input{chapters/abstract}
@@ -53,10 +57,8 @@ stringstyle=\color{orange}}
 \listoffigures
 \pagebreak
 
-\addcontentsline{toc}{chapter}{List of Tables}
-\listoftables
-
-\chapter{Abbreviations}
+%\addcontentsline{toc}{chapter}{Abbreviations}
+%\printnomenclature
 
 \mainmatter % normal numbers
 \chapter{Introduction}
