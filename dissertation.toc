@@ -41,11 +41,13 @@
 \contentsline {section}{\numberline {6.2}Methodologies}{21}
 \contentsline {section}{\numberline {6.3}Tools}{21}
 \contentsline {subsection}{\numberline {6.3.1}Rspec}{21}
-\contentsline {subsection}{\numberline {6.3.2}Chrome Development Tools}{21}
-\contentsline {section}{\numberline {6.4}First release}{22}
-\contentsline {section}{\numberline {6.5}Design changes}{22}
-\contentsline {section}{\numberline {6.6}Conclusion}{22}
-\contentsline {chapter}{\numberline {7}Conclusion}{23}
-\contentsline {section}{\numberline {7.1}Learnings}{23}
-\contentsline {section}{\numberline {7.2}Future plans}{24}
-\contentsline {chapter}{References}{25}
+\contentsline {subsection}{\numberline {6.3.2}Chrome Development Tools}{22}
+\contentsline {section}{\numberline {6.4}Testing}{22}
+\contentsline {section}{\numberline {6.5}Evaluation}{22}
+\contentsline {subsection}{\numberline {6.5.1}First release}{22}
+\contentsline {section}{\numberline {6.6}Design changes}{23}
+\contentsline {section}{\numberline {6.7}Conclusion}{23}
+\contentsline {chapter}{\numberline {7}Conclusion}{24}
+\contentsline {section}{\numberline {7.1}Learnings}{24}
+\contentsline {section}{\numberline {7.2}Future plans}{25}
+\contentsline {chapter}{References}{26}
