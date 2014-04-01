@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  31 MAR 2014 19:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.11.5)  1 APR 2014 12:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,24 +429,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
  []
 
 
-LaTeX Warning: Reference `sec:eval' on page 2 undefined on input line 33.
-
-
-LaTeX Warning: Reference `sec:eval' on page 2 undefined on input line 33.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
-) [2]
+[2]) [3]
 Chapter 2.
 (./chapters/litreview.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 9.
- [3
+[4
 
-]) [4] [5]
+]
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+[5]) [6]
 Chapter 3.
 (./chapters/design.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -463,7 +476,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-[6
+[7
 
 ]
 Package epstopdf Info: Source file: <chapters/figs/wireframe.eps>
@@ -478,7 +491,7 @@ s-converted-to.pdf chapters/figs/wireframe.eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapters/figs/wireframe-eps-converted-to.pdf, id=53, 1493.58pt x 2460.19125pt>
+<chapters/figs/wireframe-eps-converted-to.pdf, id=56, 1493.58pt x 2460.19125pt>
 File: chapters/figs/wireframe-eps-converted-to.pdf Graphic file (type pdf)
 <use chapters/figs/wireframe-eps-converted-to.pdf>
 Package pdftex.def Info: chapters/figs/wireframe-eps-converted-to.pdf used on i
@@ -496,7 +509,7 @@ ps-converted-to.pdf chapters/figs/wireframe1.eps>
 (epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapters/figs/wireframe1-eps-converted-to.pdf, id=54, 1477.52pt x 2434.09375pt
+<chapters/figs/wireframe1-eps-converted-to.pdf, id=57, 1477.52pt x 2434.09375pt
 >
 File: chapters/figs/wireframe1-eps-converted-to.pdf Graphic file (type pdf)
  <use chapters/figs/wireframe1-eps-converted-to.pdf>
@@ -514,7 +527,7 @@ verted-to.pdf chapters/figs/mock.eps>
 (epstopdf)             \includegraphics on input line 26.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapters/figs/mock-eps-converted-to.pdf, id=55, 1204.5pt x 1204.5pt>
+<chapters/figs/mock-eps-converted-to.pdf, id=58, 1204.5pt x 1204.5pt>
 File: chapters/figs/mock-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapters/figs/mock-eps-converted-to.pdf>
@@ -532,7 +545,7 @@ nverted-to.pdf chapters/figs/mock1.eps>
 (epstopdf)             \includegraphics on input line 33.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapters/figs/mock1-eps-converted-to.pdf, id=56, 1204.5pt x 1204.5pt>
+<chapters/figs/mock1-eps-converted-to.pdf, id=59, 1204.5pt x 1204.5pt>
 File: chapters/figs/mock1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapters/figs/mock1-eps-converted-to.pdf>
@@ -551,7 +564,7 @@ s-converted-to.pdf chapters/figs/flowchart.eps>
 (epstopdf)             \includegraphics on input line 40.
 Package epstopdf Info: Output file is already uptodate.
 
-<chapters/figs/flowchart-eps-converted-to.pdf, id=57, 1451.4225pt x 1043.9pt>
+<chapters/figs/flowchart-eps-converted-to.pdf, id=60, 1451.4225pt x 1043.9pt>
 File: chapters/figs/flowchart-eps-converted-to.pdf Graphic file (type pdf)
 
 <use chapters/figs/flowchart-eps-converted-to.pdf>
@@ -568,238 +581,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
-[7 <./chapters/figs/wireframe-eps-converted-to.pdf>]
-Package epstopdf Info: Source file: <chapters/figs/erd.eps>
-(epstopdf)                    date: 2014-03-15 12:56:56
-(epstopdf)                    size: 230658 bytes
-(epstopdf)             Output file: <chapters/figs/erd-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-03-15 12:58:23
-(epstopdf)                    size: 67829 bytes
-(epstopdf)             Command: <repstopdf --outfile=chapters/figs/erd-eps-conv
-erted-to.pdf chapters/figs/erd.eps>
-(epstopdf)             \includegraphics on input line 53.
-Package epstopdf Info: Output file is already uptodate.
-
-<chapters/figs/erd-eps-converted-to.pdf, id=64, 868.24374pt x 667.49374pt>
-File: chapters/figs/erd-eps-converted-to.pdf Graphic file (type pdf)
-
-<use chapters/figs/erd-eps-converted-to.pdf>
-Package pdftex.def Info: chapters/figs/erd-eps-converted-to.pdf used on input l
-ine 53.
-(pdftex.def)             Requested size: 434.1208pt x 333.74606pt.
-
-Overfull \hbox (7.32945pt too wide) in paragraph at lines 53--54
- [][] 
- []
-
-) [8 <./chapters/figs/wireframe1-eps-converted-to.pdf>] [9 <./chapters/figs/moc
-k-eps-converted-to.pdf>] [10 <./chapters/figs/mock1-eps-converted-to.pdf>]
-[11 <./chapters/figs/flowchart-eps-converted-to.pdf>] [12 <./chapters/figs/erd-
-eps-converted-to.pdf>]
-Chapter 4.
-(./chapters/resources.tex
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-[13
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--21
-
- []
-
-) [14] [15]
-Chapter 5.
-(./chapters/development.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 7--8
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--20
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-[16
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 23--24
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 25--26
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
-
- []
-
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-[18]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 53.
- (/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 57--58
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 59--60
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
-
- []
-
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 65--66
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
-
- []
-
-) [20]
-Chapter 6.
-(./chapters/testing.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 5--6
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-[21
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-
-Overfull \hbox (4.55812pt too wide) in paragraph at lines 24--25
-\T1/ptm/m/n/10.95 Along the pro-gres-sion of de-vel-op-ment, al-though noth-ing
- ma-jor has changed, the de-sign has changed
- []
-
-[22]) [23]
-Chapter 7.
-(./chapters/conclusion.tex
-Underfull \hbox (badness 10000) in paragraph at lines 2--3
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 4--5
-
- []
-
-[24
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 9--10
-
- []
-
-) [25] (./dissertation.bbl [26
-
-]) [27] (./dissertation.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+[8 <./chapters/figs/wireframe-eps-converted-to.pdf>]
+./chapters/design.tex:58: Undefined control sequence.
+l.58 \noident
+              All of these will link back to the user\'s ID. Originally, the...
+
+? 
+./chapters/design.tex:58: Emergency stop.
+l.58 \noident
+              All of these will link back to the user\'s ID. Originally, the...
+End of file on the terminal!
+
+ 
 Here is how much of TeX's memory you used:
- 4789 strings out of 493315
- 67924 string characters out of 6137904
+ 4682 strings out of 493315
+ 65368 string characters out of 6137904
  150013 words of memory out of 5000000
- 8106 multiletter control sequences out of 15000+600000
- 54031 words of font info for 76 fonts, out of 8000000 for 9000
+ 8022 multiletter control sequences out of 15000+600000
+ 50869 words of font info for 73 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,7n,35p,2419b,870s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-{/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/tex
-live/2013/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2013/te
-xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/f
-onts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1
-/urw/times/utmri8a.pfb>
-Output written on dissertation.pdf (36 pages, 1666177 bytes).
-PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 139 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 500000)
- 31 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 38i,7n,35p,2539b,230s stack positions out of 5000i,500n,10000p,200000b,80000s
+./chapters/design.tex:58:  ==> Fatal error occurred, no output PDF file produce
+d!
