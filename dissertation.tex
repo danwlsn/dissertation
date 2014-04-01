@@ -26,7 +26,8 @@ stringstyle=\color{orange}}
 %\usepackage[nottoc,numbib]{tocbibind}
 
 % Abbreviations
-\usepackage[refpage]{nomencl}
+%\usepackage[refpage]{nomencl}
+\usepackage[intoc]{nomencl}
 \renewcommand{\nomname}{Abbreviations}
 \makenomenclature
 
@@ -57,9 +58,8 @@ stringstyle=\color{orange}}
 \listoffigures
 \pagebreak
 
-%\addcontentsline{toc}{chapter}{Abbreviations}
-\printnomenclature
-\end{thenomenclature}
+\pagestyle{empty}
+\printnomenclature[2cm]
 
 \mainmatter % normal numbers
 \chapter{Introduction}

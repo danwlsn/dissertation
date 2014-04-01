@@ -1,0 +1,16 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{AJAX}]\begingroup Asynchronous JavaScript and XML\nomeqref {5.0}
+		\nompageref{18}
+  \item [{CSS}]\begingroup Cascading Stylesheets\nomeqref {5.0}
+		\nompageref{17}
+  \item [{HTML}]\begingroup HyperText Markup Language\nomeqref {3.0}
+		\nompageref{8}
+  \item [{HTTP}]\begingroup HyperText Transfer Protocol\nomeqref {5.0}
+		\nompageref{21}
+  \item [{MVC}]\begingroup Model View Controller\nomeqref {5.0}
+		\nompageref{18}
+
+\end{thenomenclature}

@@ -31,6 +31,11 @@ Driessen, V.  \harvardyearleft 2010\harvardyearright , `A successful git
 \newblock <Accessed on : 17/02/2014>.
 \newline\harvardurl{http://nvie.com/posts/a-successful-git-branching-model/}
 
+\harvarditem{{\em Factory\_Girl}}{2013}{factorygirl:2013}
+{\em Factory\_Girl}  \harvardyearleft 2013\harvardyearright .
+\newblock <Accessed on : 16/02/2014.
+\newline\harvardurl{https://github.com/thoughtbot/factory\_girl}
+
 \harvarditem{Fitocracy}{2007}{fitocracy:2007}
 Fitocracy  \harvardyearleft 2007\harvardyearright , `Fitocracy'.
 \newblock <Accessed on : 5/11/2013>.
@@ -42,7 +47,7 @@ Franco, B.  \harvardyearleft 2002\harvardyearright , {\em Minimalist
 
 \harvarditem{Google}{2014}{cdt:2014}
 Google  \harvardyearleft 2014\harvardyearright , `Chrome developer tools'.
-\newblock <Accessed on 24/4/2014>.
+\newblock <Accessed on : 24/03/2014>.
 \newline\harvardurl{https://developers.google.com/chrome-developer-tools/}
 
 \harvarditem{{\em Grunt.js}}{2013}{grunt:2013}
@@ -55,14 +60,18 @@ Hansson, D.~H.  \harvardyearleft 2013\harvardyearright , `Ruby on rails'.
 \newblock <Accessed on : 21/01/2014>.
 \newline\harvardurl{www.rubyonrails.org}
 
+\harvarditem{Hartl}{2013}{michael:2013}
+Hartl, M.  \harvardyearleft 2013\harvardyearright , `Ruby on rails tutorial.
+  learn web development with rails'.
+
 \harvarditem{HighsoftAS}{2009}{highcharts:2009}
 HighsoftAS  \harvardyearleft 2009\harvardyearright , `Highcharts.js'.
-\newblock <Accessed on 24/4/2014>.
+\newblock <Accessed on : 24/03/2014>.
 \newline\harvardurl{http://www.highcharts.com}
 
 \harvarditem{Icons8}{2014}{imageoptim:2014}
 Icons8  \harvardyearleft 2014\harvardyearright , `Imageoptim'.
-\newblock <Accessed on 24/4/2014>.
+\newblock <Accessed on : 24/03/2014>.
 \newline\harvardurl{http://imageoptim.com}
 
 \harvarditem{inc.}{2013}{fuelbandpress:2013}
@@ -92,7 +101,7 @@ Lindenbaum, J., Wiggins, A. \harvardand\ Henry, O.  \harvardyearleft
 
 \harvarditem{Martinez}{2010}{lhc:2010}
 Martinez, M.~M.  \harvardyearleft 2010\harvardyearright , `Lazyhighcharts gem'.
-\newblock <Accessed on 24/4/2014>.
+\newblock <Accessed on : 24/03/2014>.
 \newline\harvardurl{https://github.com/michelson/lazy\_high\_charts}
 
 \harvarditem{Moolenaar}{2013}{vim:2013}
@@ -112,8 +121,13 @@ NHS  \harvardyearleft 2012\harvardyearright , `Colour vision deficiency'.
 
 \harvarditem{NHS}{2013}{nhs:2013}
 NHS  \harvardyearleft 2013\harvardyearright , `Bbenefits of exercise'.
-\newblock <Accessed on 26/4/2014>.
+\newblock <Accessed on : 26/03/2014>.
 \newline\harvardurl{http://www.nhs.uk/Livewell/fitness/Pages/Whybeactive.aspx}
+
+\harvarditem{Nicklas}{2013}{capybara:2013}
+Nicklas, J.  \harvardyearleft 2013\harvardyearright , `Capybara'.
+\newblock <Accessed on : 16/02/2014.
+\newline\harvardurl{https://github.com/jnicklas/capybara}
 
 \harvarditem{Nike}{2012}{nikefuelband:2012}
 Nike  \harvardyearleft 2012\harvardyearright , `Nike+ fuel band'.
@@ -142,8 +156,13 @@ Popescu, B.  \harvardyearleft 2014\harvardyearright , `Dash'.
 
 \harvarditem{Quaranto}{2009}{rubygems:2009}
 Quaranto, N.  \harvardyearleft 2009\harvardyearright , `Rubygems'.
-\newblock <Accessed on 24/4/2014>.
+\newblock <Accessed on : 24/03/2014>.
 \newline\harvardurl{http://rubygems.org}
+
+\harvarditem{{\em RailsGuids}}{n.d.}{guides:2013}
+{\em RailsGuids}  \harvardyearleft n.d.\harvardyearright .
+\newblock <Accessed on : 16/02/2014>.
+\newline\harvardurl{http://guides.rubyonrails.org}
 
 \harvarditem{Russell}{2009}{zsh:2009}
 Russell, R.  \harvardyearleft 2009\harvardyearright , `Oh my zsh'.
