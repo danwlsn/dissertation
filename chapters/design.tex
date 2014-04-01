@@ -24,26 +24,26 @@ Simple designs were sketched up in a notebook to get a feel for how each of the 
 \begin{figure}[!ht]
 \centering
 \includegraphics[scale=0.3]{chapters/figs/mock}
-\caption{First initial mock up of the website\'s home page done in Sketch.}
+\caption{First initial mock up of the website's home page done in Sketch.}
 \label{fig:erd}
 \end{figure}
 
 \begin{figure}[!ht]
 \centering
 \includegraphics[scale=0.3]{chapters/figs/mock1}
-\caption{First initial mock up of the website\'s input page done in Sketch.}
+\caption{First initial mock up of the website's input page done in Sketch.}
 \label{fig:erd}
 \end{figure}
 
 \begin{figure}[!ht]
 \centering
 \includegraphics[scale=0.3]{chapters/figs/flowchart}
-\caption{Flowchart for the processes and actions of the web application recur.}
+\caption{Flowchart for the processes and actions of the web application Recur.}
 \label{fig:flowchart}
 \end{figure}
 
 \section{Design in the browser}
-Most of the designs for the application were drawn up, but some of the easier designs were made directly in the browser. This was to speed up the process by cutting out unnecessary tasks. As opposed to the original plan, development begin during the design stage. This was because there was enough of a design to begin developing some of the application. Once development was underway some things had not been designed yet, for example; the forms for signing in and out. There was a clear vision of what the forms should look like, so instead of wasting time making the wireframe and mock up of them, they were just designed as the web application was being constructed, in the browser. This allows for rapid prototyping of the application\'s appearance and lessens the work load on the design front, and even if the design does not work there is no reason why another design cannot be drawn up and implemented.\\
+Most of the designs for the application were drawn up, but some of the easier designs were made directly in the browser. This was to speed up the process by cutting out unnecessary tasks. As opposed to the original plan, development begin during the design stage. This was because there was enough of a design to begin developing some of the application. Once development was underway some things had not been designed yet, for example; the forms for signing in and out. There was a clear vision of what the forms should look like, so instead of wasting time making the wireframe and mock up of them, they were just designed as the web application was being constructed, in the browser. This allows for rapid prototyping of the application's appearance and lessens the work load on the design front, and even if the design does not work there is no reason why another design cannot be drawn up and implemented.\\
 
 \section{Database design}
 As well as the design of the application, the design of the backend will need to be done before development takes place. For the backend, Ruby on Rails \citep{rails:2013} will be used. The reasoning behind this will be discussed in the development Chapter \ref{sec:dev} Page \pageref{sec:dev}. A number of attributes will be stored about each user and will be split up over a number of tables. Each table will have a one to many relationship with the user table, apart from the options table with will be one to one. This is because a user will only need to have one set of option in the database at any one time. The other tables will be current are:
@@ -56,12 +56,12 @@ As well as the design of the application, the design of the backend will need to
 \end{enumerate}
 
 \noindent
-All of these will link back to the user\'s ID. Originally, there was going to be a user\'s weight table, which would store both the current and goal weight, but it was moved to two different tables because it is unlikely that the user will be updating the goal weight as much as they were going to update their current weight. All of these tables will depend upon their user, so if the user is removed from the database, their data from the other tables will be removed as well. Below (Figure \ref{fig:erd}) you can see the entity relationship diagram for the application.
+All of these will link back to the user's ID. Originally, there was going to be a user's weight table, which would store both the current and goal weight, but it was moved to two different tables because it is unlikely that the user will be updating the goal weight as much as they were going to update their current weight. All of these tables will depend upon their user, so if the user is removed from the database, their data from the other tables will be removed as well. Below (Figure \ref{fig:erd}) you can see the entity relationship diagram for the application.
 
 \begin{figure}[!ht]
 \centering
 \includegraphics[scale=0.5]{chapters/figs/erd}
-\caption{Entity Relationship Diagram for the website application recur.}
+\caption{Entity Relationship Diagram for the website application Recur.}
 \label{fig:erd}
 \end{figure}
 
