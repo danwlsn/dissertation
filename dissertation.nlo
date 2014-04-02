@@ -4,3 +4,5 @@
 \nomenclatureentry{aMVC@[{MVC}]\begingroup Model View Controller\nomeqref {5.0}|nompageref}{18}
 \nomenclatureentry{aAJAX@[{AJAX}]\begingroup Asynchronous JavaScript and XML\nomeqref {5.0}|nompageref}{18}
 \nomenclatureentry{aHTTP@[{HTTP}]\begingroup HyperText Transfer Protocol\nomeqref {5.0}|nompageref}{21}
+\nomenclatureentry{aTDD@[{TDD}]\begingroup Test Driven Development\nomeqref {6.0}|nompageref}{23}
+\nomenclatureentry{aAPI@[{API}]\begingroup Application Programming Interface\nomeqref {7.0}|nompageref}{27}

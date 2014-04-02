@@ -4,6 +4,8 @@
 
   \item [{AJAX}]\begingroup Asynchronous JavaScript and XML\nomeqref {5.0}
 		\nompageref{18}
+  \item [{API}]\begingroup Application Programming Interface\nomeqref {7.0}
+		\nompageref{27}
   \item [{CRUD}]\begingroup Create, Read, Update, Destroy\nomeqref {4.0}
 		\nompageref{14}
   \item [{CSS}]\begingroup Cascading Stylesheets\nomeqref {5.0}
@@ -14,5 +16,7 @@
 		\nompageref{21}
   \item [{MVC}]\begingroup Model View Controller\nomeqref {5.0}
 		\nompageref{18}
+  \item [{TDD}]\begingroup Test Driven Development\nomeqref {6.0}
+		\nompageref{23}
 
 \end{thenomenclature}

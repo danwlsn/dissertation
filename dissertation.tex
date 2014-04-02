@@ -9,6 +9,8 @@
 % Graphics
 \usepackage{graphicx}
 
+\usepackage[titletoc]{appendix}
+
 % Code snippets
 \usepackage[dvipsnames]{xcolor}
 \usepackage{listings}
@@ -34,16 +36,23 @@ stringstyle=\color{orange}}
 %Meta data
 \author{Daniel James Wilson}
 \title{Progress Monitoring Web Application}
+
 \date{\parbox{\linewidth}{\centering%
   \today\endgraf\bigskip
+    Mobile and Web Application Development \endgraf\bigskip
   Supervisor:\\
-  Dr Moi Hoon Yap}}
-
+  Dr Moi Hoon Yap\endgraf\bigskip
+  Manchester Metropolitan University}}
 
 % Document
 \begin{document}
 \frontmatter % roman numbers
 \maketitle
+
+\chapter*{Declaration}
+No part of this project has been submitted in support of an application for any other degree or qualification at this or any other institute of learning. Apart from those parts of the project containing citations to the work of others, this project is my own unaided work.\\ \\
+
+Signed \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \chapter{Acknowledgments}
 \input{chapters/acknowledgments}
@@ -58,7 +67,7 @@ stringstyle=\color{orange}}
 \listoffigures
 \pagebreak
 
-\pagestyle{empty}
+%\pagestyle{empty}
 \printnomenclature[2cm]
 
 \mainmatter % normal numbers
@@ -86,7 +95,7 @@ stringstyle=\color{orange}}
 \label{sec:test}
 \input{chapters/testing}
 
-\chapter{Conclusion}
+\chapter{Conclusion and Future Work}
 \label{sec:conc}
 \input{chapters/conclusion}
 
@@ -94,5 +103,44 @@ stringstyle=\color{orange}}
 \renewcommand{\bibname}{References}
 \addcontentsline{toc}{chapter}{References}
 \bibliography{bib}
+
+\setcounter{figure}{0}
+\begin{appendices}
+\appendixpage
+\noappendicestocpagenum
+\addappheadtotoc
+
+\chapter{User evaluation feedback}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.5]{chapters/apendix/user1}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.6]{chapters/apendix/user2}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.6]{chapters/apendix/user3}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.6]{chapters/apendix/user4}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.6]{chapters/apendix/user5}
+\end{figure}
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[scale=0.6]{chapters/apendix/user6}
+\end{figure}
+\end{appendices}
 
 \end{document}

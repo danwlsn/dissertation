@@ -1,7 +1,7 @@
-\contentsline {chapter}{Acknowledgments}{i}
-\contentsline {chapter}{Abstract}{ii}
-\contentsline {chapter}{List of Figures}{v}
-\contentsline {chapter}{Abbreviations}{vi}
+\contentsline {chapter}{Acknowledgments}{ii}
+\contentsline {chapter}{Abstract}{iii}
+\contentsline {chapter}{List of Figures}{vi}
+\contentsline {chapter}{Abbreviations}{vii}
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {1.1}Fitness applications}{1}
 \contentsline {section}{\numberline {1.2}Benefits of being fit and healthy}{1}
@@ -19,7 +19,7 @@
 \contentsline {chapter}{\numberline {3}Design}{7}
 \contentsline {section}{\numberline {3.1}Introduction}{7}
 \contentsline {section}{\numberline {3.2}Grid design}{7}
-\contentsline {section}{\numberline {3.3}Wireframe and mock up}{7}
+\contentsline {section}{\numberline {3.3}Wireframe and mock-up}{7}
 \contentsline {section}{\numberline {3.4}Design in the browser}{8}
 \contentsline {section}{\numberline {3.5}Database design}{9}
 \contentsline {section}{\numberline {3.6}Conclusion}{10}
@@ -49,7 +49,9 @@
 \contentsline {subsection}{\numberline {6.5.1}First release}{24}
 \contentsline {section}{\numberline {6.6}Design changes}{25}
 \contentsline {section}{\numberline {6.7}Conclusion}{25}
-\contentsline {chapter}{\numberline {7}Conclusion}{26}
+\contentsline {chapter}{\numberline {7}Conclusion and Future Work}{26}
 \contentsline {section}{\numberline {7.1}Learnings}{26}
-\contentsline {section}{\numberline {7.2}Future plans}{27}
+\contentsline {section}{\numberline {7.2}Future work}{27}
 \contentsline {chapter}{References}{28}
+\contentsline {chapter}{Appendices}{}
+\contentsline {chapter}{Appendix \numberline {A}User evaluation feedback}{32}
