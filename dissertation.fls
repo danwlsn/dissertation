@@ -240,6 +240,9 @@ INPUT ./chapters/figs/erd.eps
 INPUT ./chapters/figs/erd-eps-converted-to.pdf
 INPUT ./chapters/figs/erd-eps-converted-to.pdf
 INPUT ./chapters/figs/erd-eps-converted-to.pdf
+INPUT chapters/figs/ucd.png
+INPUT ./chapters/figs/ucd.png
+INPUT ./chapters/figs/ucd.png
 INPUT chapters/resources.tex
 INPUT chapters/resources.tex
 INPUT chapters/development.tex

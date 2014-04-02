@@ -1,17 +1,17 @@
 # Fdb version 3
-["bibtex dissertation"] 1396368226 "dissertation.aux" "dissertation.bbl" "dissertation" 1396372824
+["bibtex dissertation"] 1396373706 "dissertation.aux" "dissertation.bbl" "dissertation" 1396373709
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/harvard/agsm.bst" 1136766823 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
   "bib.bib" 1396368219 6525 3ef39e78435cba45544f000e97d61f9b ""
-  "dissertation.aux" 1396372824 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
+  "dissertation.aux" 1396373708 9199 7e9fceaf015bfd01783f5139de6b85de ""
   "dissertation.bcf" 0 -1 0 ""
   (generated)
   "dissertation.blg"
   "dissertation.bbl"
-["cusdep nlo nls dissertation"] 1396372822 "dissertation.nlo" "dissertation.nls" "dissertation" 1396372824
-  "dissertation.nlo" 1396372824 611 91671ab8ba6c0d884931e7f7c188c4a8 ""
+["cusdep nlo nls dissertation"] 1396372822 "dissertation.nlo" "dissertation.nls" "dissertation" 1396373709
+  "dissertation.nlo" 1396373708 611 91671ab8ba6c0d884931e7f7c188c4a8 ""
   (generated)
   "dissertation.nls"
-["pdflatex"] 1396372822 "dissertation.tex" "dissertation.pdf" "dissertation" 1396372824
+["pdflatex"] 1396373707 "dissertation.tex" "dissertation.pdf" "dissertation" 1396373709
   "/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2013/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
@@ -92,7 +92,7 @@
   "chapters/abstract.tex" 1396362632 454 78395be9c68ddf2562996828fb5b10a4 ""
   "chapters/acknowledgments.tex" 1395679339 277 16e7ef1d4f0ec46185344348334f351f ""
   "chapters/conclusion.tex" 1396362761 4659 5cb75cea24e9c3df10853f457dc682f3 ""
-  "chapters/design.tex" 1396372363 8789 c02010d1cbdcc8e2749b9ceeaebfb676 ""
+  "chapters/design.tex" 1396373696 8983 e2f76a16f4a3329737f8d6f3803cc766 ""
   "chapters/development.tex" 1396372670 18291 7fba2057ad37e977cee2cce7a4cc9afb ""
   "chapters/figs/erd-eps-converted-to.pdf" 1394888303 67829 6c5e571a7925c095c628675cf717ba81 ""
   "chapters/figs/erd.eps" 1394888216 230658 94b38f589352933fe9ed1f11c51584ae ""
@@ -102,6 +102,7 @@
   "chapters/figs/mock.eps" 1395849641 21146147 bc77ab9a29c9e94a04fe174343152c7f ""
   "chapters/figs/mock1-eps-converted-to.pdf" 1395849753 128038 7709f42c3e0d5650212d87da4d0987fd ""
   "chapters/figs/mock1.eps" 1395849641 17470624 93f37a763b8e642994605033c1ef09be ""
+  "chapters/figs/ucd.png" 1396373609 142998 505fe8fcc97e36d02a1f195662a7dc2b ""
   "chapters/figs/wireframe-eps-converted-to.pdf" 1395850596 661729 8fb21e45159591121030e1c71e2eb8e6 ""
   "chapters/figs/wireframe.eps" 1395850547 22168829 92b171b4465842446f76432be9df0253 ""
   "chapters/figs/wireframe1-eps-converted-to.pdf" 1395850600 508102 acebcbfa665653aefdd01a514d33624f ""
@@ -110,16 +111,16 @@
   "chapters/litreview.tex" 1396372282 7240 088bcc293232ffcfe242351c02218e4c ""
   "chapters/resources.tex" 1396372546 8261 a73e22e3892df39928ce7d7dbf351c83 ""
   "chapters/testing.tex" 1396368163 7439 0b2749d10c7e1c608540701fc0c13196 ""
-  "dissertation.aux" 1396372824 9014 6dce2a2ea360de7192d0f1253fbab1ed ""
-  "dissertation.bbl" 1396368227 7939 34e7e851372c030aaceb3e35a40e1162 "bibtex dissertation"
-  "dissertation.lof" 1396372824 915 20b794492367e2ff4a344ea02f8861ef ""
+  "dissertation.aux" 1396373708 9199 7e9fceaf015bfd01783f5139de6b85de ""
+  "dissertation.bbl" 1396373707 7939 34e7e851372c030aaceb3e35a40e1162 "bibtex dissertation"
+  "dissertation.lof" 1396373708 1052 325242703cdd4e0b163e257507ec24f6 ""
   "dissertation.nls" 1396372822 587 eefad1601795dac8b9c67c02fe77cd94 "cusdep nlo nls dissertation"
   "dissertation.tex" 1396372182 1847 0f7e86076eef36b98894dee130fcebd1 ""
-  "dissertation.toc" 1396372824 3196 5b1d2baaaa0c98761421d57580263358 ""
+  "dissertation.toc" 1396373708 3196 5b1d2baaaa0c98761421d57580263358 ""
   (generated)
-  "dissertation.toc"
   "dissertation.aux"
+  "dissertation.toc"
   "dissertation.pdf"
-  "dissertation.lof"
   "dissertation.nlo"
+  "dissertation.lof"
   "dissertation.log"
