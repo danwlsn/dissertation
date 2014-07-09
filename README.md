@@ -5,5 +5,4 @@ This is my dissertation that I wrote in my final year of University. I was about
 Have fun and don't cheat. 
 
 Overall grade received : 2:1
-
-Not sure of what I got for my disseration but I'll update when I know.
+Dissertation grade : 2:1
